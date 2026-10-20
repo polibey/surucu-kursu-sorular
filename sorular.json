@@ -1,0 +1,4545 @@
+[
+  {
+    "id": 1,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhasını gören sürücünün aşağıdakilerden hangisini yapması doğrudur?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Turkey_road_sign_T-1.svg/320px-Turkey_road_sign_T-1.svg.png",
+    "secenekler": [
+      "A) Hızını azaltması ve öndeki aracı geçmekten kaçınması",
+      "B) Hızını artırarak viraja hızlı girmesi",
+      "C) Sol şeride geçip duraklama yapması",
+      "D) Sürekli korna çalarak yoluna devam etmesi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 2,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücülerin şekildeki trafik işaret levhası ile karşılaştıklarında uymaları gereken kural aşağıdakilerden hangisidir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Turkey_road_sign_TT-27.svg/320px-Turkey_road_sign_TT-27.svg.png",
+    "secenekler": [
+      "A) Kavşakta durmadan doğrudan düz ilerlemek",
+      "B) Dönel kavşak adası etrafında gösterilen ok yönünde dönmek",
+      "C) Sağa yanaşıp hemen araçtan inmek",
+      "D) Geri vitese takıp geldiği yola dönmek"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 3,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücülerin taşıt yolunun aynı şeridinde önlerinde giden araçları güvenle takip edebilmeleri için bırakmaları gereken asgari mesafeye ne ad verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Duruş mesafesi",
+      "B) Takip mesafesi",
+      "C) İntikal mesafesi",
+      "D) Reaksiyon mesafesi"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 4,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Yerleşim yeri içindeki karayollarında aksine bir işaret bulunmadıkça otomobiller için azami hız sınırı saatte kaç kilometredir?",
+    "resim": null,
+    "secenekler": [
+      "A) 30 km/s",
+      "B) 50 km/s",
+      "C) 70 km/s",
+      "D) 90 km/s"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 5,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Kırmızı ışıklı trafik işaretinde veya 'DUR' levhasında durmadan geçmek kazalarda ne sayılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Tali kusur",
+      "B) Asli kusur",
+      "C) Hafif ihlal",
+      "D) Sürücü ihmali"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 6,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Taşıt yolu üzerine çizilen kesikli çizgi sürücülere aşağıdakilerden hangisini bildirir?",
+    "resim": null,
+    "secenekler": [
+      "A) Şerit değiştirilemeyeceğini",
+      "B) Kurallara uygun olarak öndeki aracın geçilebileceğini",
+      "C) Park etmenin kesinlikle yasak olduğunu",
+      "D) Yolun trafiğe kapalı olduğunu"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 7,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Otoyola girerken hangi şeridin kullanılması zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) Hızlanma (katılma) şeridi",
+      "B) Yavaşlama şeridi",
+      "C) Sol şerit",
+      "D) Emniyet şeridi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 8,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret yoksa, yerleşim yeri dışındaki bölünmüş karayollarında otomobiller için azami hız sınırı saatte kaç kilometredir?",
+    "resim": null,
+    "secenekler": [
+      "A) 90 km/s",
+      "B) 100 km/s",
+      "C) 110 km/s",
+      "D) 120 km/s"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 9,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Öndeki araç geçilirken sol şeridin kullanılmasının temel nedeni aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Sol şeridin en hızlı şerit olması",
+      "B) Geçişlerin sol şeritten yapılması kuralı",
+      "C) Sağ şeridin bozuk olması",
+      "D) Arkadaki aracın sıkıştırması"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 10,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Geceleyin karşı yönden gelen araçlarla karşılaşırken hangi ışıkların yakılması zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) Uzağı gösteren ışıklar",
+      "B) Yakını gösteren ışıklar",
+      "C) Sis lambaları",
+      "D) Park lambaları"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 11,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Işıklı trafik işaret cihazında sarı ve kırmızı ışığın birlikte yanması ne anlama gelir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yolun trafiğe açılmak üzere olduğunu",
+      "B) Yolun trafiğe kapandığını",
+      "C) Durulması gerektiğini",
+      "D) Hızın artırılmasını"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 12,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir karar yoksa, eğimsiz iki yönlü dar karayolunda karşılaşmada yük otomobili ile traktörün karşılaşması halinde hangisi diğerine yol vermelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yük otomobili traktöre",
+      "B) Traktör yük otomobiline",
+      "C) Boyu uzun olan diğerine",
+      "D) Duramayacak kadar hızlı olan diğerine"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 13,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücülerin kavşaklara yaklaşırken yerleşim yerleri içinde kaç metre mesafe içinde şerit değiştirmeleri yasaktır?",
+    "resim": null,
+    "secenekler": [
+      "A) 30 m",
+      "B) 50 m",
+      "C) 100 m",
+      "D) 150 m"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 14,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret yoksa otomobiller için otoyollarda azami hız sınırı saatte kaç kilometredir?",
+    "resim": null,
+    "secenekler": [
+      "A) 110 km/s",
+      "B) 120 km/s",
+      "C) 130 km/s",
+      "D) 140 km/s"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 15,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik zorunlulukları nedeniyle aracın durdurulmasına ne ad verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Durma",
+      "B) Duraklama",
+      "C) Park etme",
+      "D) Bekleme"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 16,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Yolun yapısal olarak iki ayrı taşıt yoluna ayrıldığı karayolu türüne ne denir?",
+    "resim": null,
+    "secenekler": [
+      "A) Tek yönlü karayolu",
+      "B) İki yönlü karayolu",
+      "C) Bölünmüş karayolu",
+      "D) Erişme kontrollü karayolu"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 17,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik polisinin tek kolunu havaya kaldırması işaretinin anlamı nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Bütün yönlerdeki trafik için DUR",
+      "B) Hızlan",
+      "C) Sadece arkadakiler dur",
+      "D) Sağa yanaş"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 18,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Kavşaklarda geçiş üstünlüğü olan araçların birbirleriyle karşılaşması halinde ilk geçiş hakkı hangisinindir?",
+    "resim": null,
+    "secenekler": [
+      "A) İtfaiye",
+      "B) Ambulans",
+      "C) Polis aracı",
+      "D) Sivil savunma aracı"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 19,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücülerin arkadan gelen ambulansa yol vermek için uygulaması gereken en doğru yöntem hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Aniden durmak",
+      "B) Fermuar yöntemiyle sağa/sola yanaşarak şerit açmak",
+      "C) Hızla ilerlemek",
+      "D) Korna çalmak"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 20,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücü belgesi sahibinin sürüş sırasında yanında bulundurması gereken zorunlu belge hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Araç faturası",
+      "B) İkametgah belgesi",
+      "C) Nüfus cüzdanı fotokopisi",
+      "D) Sürücü belgesi (Ehliyet)"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 21,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik kazasında hayatını kaybeden kişilerin yakınlarına ödenen zorunlu sigorta türü hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kasko Sigortası",
+      "B) Hayat Sigortası",
+      "C) Konut Sigortası",
+      "D) Zorunlu Mali Sorumluluk (Trafik) Sigortası"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 22,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik kazasına karışan sürücülerin olay yerinde yapması gereken ilk hukuki sorumluluk nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Aracı hemen kaldırmak",
+      "B) Trafik güvenliği önlemlerini alıp durumu polise/jandarmaya bildirmek",
+      "C) Tamirci çağırmak",
+      "D) Olay yerini terk etmek"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 23,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhası sürücüye aşağıdakilerden hangisini bildirir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Turkey_road_sign_TT-1.svg/320px-Turkey_road_sign_TT-1.svg.png",
+    "secenekler": [
+      "A) Tali yoldan gelen sürücülerin ana yoldaki araçlara yol vermesi gerektiğini",
+      "B) Ana yolda olunduğunu ve geçiş hakkının kendisinde olduğunu",
+      "C) Yolda çalışma yapıldığını",
+      "D) Park etmenin yasak olduğunu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 24,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kazazedenin durumunun değerlendirilmesinde İlk Yardım C'si (Circulation) neyi ifade eder?",
+    "resim": null,
+    "secenekler": [
+      "A) Hava yolu açıklığını",
+      "B) Solunum değerlendirmesini",
+      "C) Dolaşım değerlendirmesini (Nabız)",
+      "D) Bilinç kontrolünü"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 25,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Solunum yolu tam tıkalı olan ve bilinci açık kazazedeye hangi ilk yardım yöntemi uygulanır?",
+    "resim": null,
+    "secenekler": [
+      "A) Rentek Manevrası",
+      "B) Heimlich Manevrası",
+      "C) Turnike uygulaması",
+      "D) Şok pozisyonu"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 26,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza geçiren araç içindeki yaralıyı omuriliğine zarar vermeden çıkarmada hangi manevra kullanılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Heimlich Manevrası",
+      "B) Rentek Manevrası",
+      "C) İtfaiyeci yöntemi",
+      "D) Şok pozisyonu"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 27,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yetişkinlerde yapılan dış kalp masajında göğüs kemiği kaç santimetre aşağı inecek şekilde bası uygulanmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) 1 - 2 cm",
+      "B) 5 cm",
+      "C) 8 - 10 cm",
+      "D) 12 cm"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 28,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Temel yaşam desteğinde kalp masajı ve yapay solunum oranı (bası/nefes) yetişkinler için nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) 10 / 1",
+      "B) 15 / 2",
+      "C) 30 / 2",
+      "D) 50 / 5"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 29,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Şok pozisyonunda kazazedenin bacakları kaç cm kadar yukarı kaldırılır?",
+    "resim": null,
+    "secenekler": [
+      "A) 15 cm",
+      "B) 30 cm",
+      "C) 45 cm",
+      "D) 60 cm"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 30,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Koma pozisyonu kazazedeye aşağıdaki durumlardan hangisinde verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kalp durmasında",
+      "B) Bilinci kapalı ancak solunumu ve nabzı olanlarda",
+      "C) Kırık vakalarında",
+      "D) Burnu kanayanlarda"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 31,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kanayan bölgeye parmak bastırmak suretiyle kan durdurma yöntemi hangi tür kanamalarda uygulanır?",
+    "resim": null,
+    "secenekler": [
+      "A) Atardamar kanamalarında",
+      "B) Ana damar baskı noktalarına yakın olan kanamalarda",
+      "C) İç kanamalarda",
+      "D) Kılcal damar kanamalarında"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 32,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Burun kanaması olan bir yaralıya aşağıdaki pozisyonlardan hangisi verilmelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Baş hafifçe öne eğilerek oturuş pozisyonu",
+      "B) Baş geriye atılarak sırtüstü yatış pozisyonu",
+      "C) Yüzüstü yatış pozisyonu",
+      "D) Şok pozisyonu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 33,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza yerinde yaralıların sağlık kuruluşuna sevk edilmesinde öncelik sırası nasıl olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Hayati tehlikesi en yüksek olanlar ilk sırada sevk edilir",
+      "B) Hafif yaralılar ilk sevk edilir",
+      "C) Ayakta tedavi edilenler sevk edilir",
+      "D) Yaşlılar ilk sevk edilir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 34,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "İlk yardımın temel amaçlarından biri aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hayati tehlikeyi ortadan kaldırmak ve yaşamın sürdürülmesini sağlamak",
+      "B) Yaralıya reçeteli ilaç yazmak",
+      "C) Hastanede ameliyat yapmak",
+      "D) Olay yerini terk etmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 35,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza yerinde tıbbi yardım istenirken (112 aranırken) verilmesi gereken en önemli bilgi hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Olay yerinin net adresi ve yaralı sayısı/durumu",
+      "B) Aracın kasko numarası",
+      "C) Sürücünün mesleği",
+      "D) Hava durumu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 36,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç seyir halindeyken gösterge panelinde şarj ikaz lambası yanarsa ne yapılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Yola devam edilir",
+      "B) Güvenli bir yerde durulup motor stop edilir",
+      "C) Farlar kapatılır",
+      "D) Vites küçültülür"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 37,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorun soğutma suyuna kışın donmayı önlemek ve motoru korumak için ne eklenir?",
+    "resim": null,
+    "secenekler": [
+      "A) Saf su",
+      "B) Antifriz",
+      "C) Motor yağı",
+      "D) Asitli su"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 38,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motor yağı seviyesi kontrol edilirken araç nasıl bir konumda olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Yokuş yukarı",
+      "B) Yokuş aşağı",
+      "C) Düz zeminde",
+      "D) Kriko ile kaldırılmış"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 39,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araçta lastik hava basınçları normal değerden az olursa ne gibi bir olumsuzluk yaşanır?",
+    "resim": null,
+    "secenekler": [
+      "A) Yakıt tüketimi artar",
+      "B) Lastikler ortadan aşınır",
+      "C) Direksiyon sertleşir",
+      "D) Fren mesafesi kısalır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 40,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Akü kutup başları sökülürken önce hangi kutup başı sökülmelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Artı (+) kutup",
+      "B) Eksi (-) kutup",
+      "C) İkisi aynı anda",
+      "D) Marş kablosu"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 41,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Dizel motorlu araçlarda hangi yakıt kullanılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Motorin (Mazot)",
+      "B) Benzin",
+      "C) LPG",
+      "D) Antifriz"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 42,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorun hararet yapmasının sebeplerinden biri aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Soğutma suyunun eksilmesi veya radyatör fanının çalışmaması",
+      "B) Lastik havasının yüksek olması",
+      "C) Yakıtın bitmesi",
+      "D) Silecek suyunun bitmesi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 43,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araçta fren pedalına basıldığında fren lambalarından biri yanmıyorsa sebebi ne olabilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yanmayan lambanın ampulü patlamıştır",
+      "B) Akü patlamıştır",
+      "C) Motor yağı bitmiştir",
+      "D) Lastik patlamıştır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 44,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Seyir halindeyken gösterge panelinde yağ ikaz lambası yanarsa ne yapılması gerekir?",
+    "resim": null,
+    "secenekler": [
+      "A) Araç derhal emniyetli yere çekilip motor kapatılmalıdır",
+      "B) Hız artırılmalıdır",
+      "C) Vites boşa alınmalıdır",
+      "D) Yola devam edilmelidir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 45,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte başka bir sürücünün hatasına karşı öfkelenmeyip sabır göstermek trafik adabının hangi temel unsurunu gösterir?",
+    "resim": null,
+    "secenekler": [
+      "A) Sorumsuzluk",
+      "B) Hoşgörü ve sabır",
+      "C) Bencillik",
+      "D) Acelecilik"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 46,
+    "kategori": "Trafik Adabı",
+    "soru": "Kırmızı ışıkta beklerken yeşil ışık yandığında korna çalarak acele ettiren sürücüye karşı diğer sürücünün sakin kalması aşağıdakilerden hangisini ifade eder?",
+    "resim": null,
+    "secenekler": [
+      "A) Korkaklığı",
+      "B) Kuralları bilmemeyi",
+      "C) Zaman kaybını",
+      "D) Trafik stresini yönetme becerisini"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 47,
+    "kategori": "Trafik Adabı",
+    "soru": "Su birikintisinden geçerken yayalara su sıçratmamak için yavaşlayan sürücünün davranışı aşağıdakilerden hangisine örnektir?",
+    "resim": null,
+    "secenekler": [
+      "A) Bencilliğe",
+      "B) Korkaklığa",
+      "C) Zaman israfına",
+      "D) Saygı ve nezakete"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 48,
+    "kategori": "Trafik Adabı",
+    "soru": "Engelli vatandaşlar için ayrılmış park alanlarına aracını park eden sürücünün tutumu aşağıdakilerden hangisini gösterir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kurallara uyduğunu",
+      "B) Acil işi olduğunu",
+      "C) Hak ihlali ve empati yoksunluğunu",
+      "D) Pratikliğini"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 49,
+    "kategori": "Trafik Adabı",
+    "soru": "Sürücünün trafikte kendisinden önce başkalarının geçişine olanak tanıması hangi değerle açıklanır?",
+    "resim": null,
+    "secenekler": [
+      "A) Bencillik",
+      "B) İnatçılık",
+      "C) Diğergamlık (Özgecilik/Fedakarlık)",
+      "D) Sabırsızlık"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 50,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafik kurallarına uymanın kendi güvenliği kadar diğer sürücülerin de can güvenliğini koruduğunun bilincinde olan bir sürücü aşağıdakilerden hangisine sahiptir?",
+    "resim": null,
+    "secenekler": [
+      "A) Korku duygusuna",
+      "B) Özgüven eksikliğine",
+      "C) Acemiliğe",
+      "D) Yüksek trafik bilincine ve sorumluluk duygusuna"
+    ],
+    "cevap": 3
+  },{
+    "id": 51,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret yoksa, yerleşim yeri dışındaki iki yönlü karayollarında kamyonetler için azami hız sınırı saatte kaç kilometredir?",
+    "resim": null,
+    "secenekler": [
+      "A) 50 km/s",
+      "B) 70 km/s",
+      "C) 80 km/s",
+      "D) 90 km/s"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 52,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik zorunlulukları (kırmızı ışık, arıza vb.) nedeniyle aracın durdurulmasına ne ad verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Durma",
+      "B) Duraklama",
+      "C) Park etme",
+      "D) Bekleme"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 53,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Kırmızı ışıkta sağa dönüş serbestliği kuralının uygulanabilmesi için yolda ne bulunmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Korna çalmak yeterlidir",
+      "B) Sağa Dönüş Yeşil Ok Işığı veya İşaret Levhası",
+      "C) Yolun boş olması yeterlidir",
+      "D) Sadece taksilere serbesttir"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 54,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafikte bir yıl içinde toplam kaç ceza puanına ulaşan sürücünün belgesi 2 ay süreyle geri alınır?",
+    "resim": null,
+    "secenekler": [
+      "A) 50 Ceza Puanı",
+      "B) 75 Ceza Puanı",
+      "C) 150 Ceza Puanı",
+      "D) 100 Ceza Puanı"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 55,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Görüşün kapalı olduğu tepe üstlerinde ve virajlarda sürücülerin yapması yasak olan davranış hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hız azaltmak",
+      "B) Sağ şeritten gitmek",
+      "C) Öndeki aracı geçmek",
+      "D) Takip mesafesini korumak"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 56,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücülerin önlerinde giden araçları güvenle takip edebilmeleri için bırakmaları gereken takip mesafesi saatteki hızın en az ne kadarı olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Yarısı kadar (metre cinsinden)",
+      "B) İki katı kadar",
+      "C) Üç katı kadar",
+      "D) Tamamı kadar"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 57,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Hususi otomobillerde periyodik araç muayenesi ilk 3 yılın sonunda kaç yılda bir yapılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Her yıl",
+      "B) 2 yılda bir",
+      "C) 3 yılda bir",
+      "D) 5 yılda bir"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 58,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Işıklı trafik işaret cihazında yeşil ışık yandığında sürücü ne yapmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Durup yolu kontrol etmelidir",
+      "B) Kornaya basıp hızlanmalıdır",
+      "C) Geri vitese takmalıdır",
+      "D) Yol uygunsa hareket etmelidir"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 59,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Geceleyin yerleşim yeri dışında duraklayan veya park edilen araçların arkasında hangi renk ışık veren lambalar yakılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Beyaz",
+      "B) Mavi",
+      "C) Kırmızı",
+      "D) Sarı"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 60,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şerit değiştirmek isteyen sürücülerin öncelikle aşağıdakilerden hangisini yapması zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) Aynalardan arkasını kontrol edip sinyal vermesi",
+      "B) Ani fren yapması",
+      "C) Kornaya basması",
+      "D) Farları yakması"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 61,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret yoksa yerleşim yeri içindeki karayollarında minibüsler için azami hız sınırı saatte kaç kilometredir?",
+    "resim": null,
+    "secenekler": [
+      "A) 30 km/s",
+      "B) 50 km/s",
+      "C) 70 km/s",
+      "D) 80 km/s"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 62,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Öndeki araç geçilirken (solama yapılırken) kural olarak hangi şeridin kullanılması zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) Emniyet şeridinin",
+      "B) Sağ şeridin",
+      "C) Banketin",
+      "D) Sol şeridin"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 63,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Geceleyin uzağı gösteren farlar ile seyir halindeyken karşı yönden gelen araçlar karşısında hangi ışıklar yakılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Sis lambaları",
+      "B) Park lambaları",
+      "C) Yakını gösteren (kısa) farlar",
+      "D) Flaşörler"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 64,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Akünün elektrolit seviyesi (saf su ve asit karışımı) hücrelerin kaç santimetre üzerinde olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) 1 cm üzerinde",
+      "B) 5 cm üzerinde",
+      "C) 10 cm üzerinde",
+      "D) Tam hizasında"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 65,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motor yağı seviyesi kontrol edilirken aracın konumu nasıl olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Yokuş yukarı",
+      "B) Düz zeminde",
+      "C) Kriko ile kaldırılmış",
+      "D) Yokuş aşağı"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 66,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Vites kutusunun (şanzımanın) temel görevi aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Aküyü şarj etmek",
+      "B) Direksiyonu döndürmek",
+      "C) Fren yapmak",
+      "D) Araca hız ve tork (çekiş gücü) kazandırmak"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 67,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç çalışır vaziyette iken akünün şarj olup olmadığını sürücüye bildiren gösterge hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hararet göstergesi",
+      "B) Yakıt göstergesi",
+      "C) Şarj ikaz lambası",
+      "D) Yağ göstergesi"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 68,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Fren pedalına basıldığında arka fren lambalarından biri yanmıyorsa muhtemel arıza nerededir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yanmayan lambanın ampulü patlamıştır",
+      "B) Akü bitmiştir",
+      "C) Motor yağı kalmamıştır",
+      "D) Şanzıman arızalıdır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 69,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motor çalıştırıldıktan sonra gösterge panelindeki yağ ikaz lambası yanmaya devam ediyorsa ne yapılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Vites küçültülüp yola devam edilir",
+      "B) Motor derhal durdurulmalıdır",
+      "C) Farlar kapatılır",
+      "D) Gaz verilerek lambanın sönmesi beklenir"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 70,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorun soğutma suyuna antifriz eklenmesinin temel amacı nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Motor gücünü artırmak",
+      "B) Yakıt tasarrufu sağlamak",
+      "C) Lastik basıncını korumak",
+      "D) Suyun donmasını önlemek ve korozyonu engellemek"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 71,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Debriyaj (kavrama) balatası tamamen aşınırsa (sıyrılırsa) ne olur?",
+    "resim": null,
+    "secenekler": [
+      "A) Araç çok hızlı gider",
+      "B) Direksiyon kilitlenir",
+      "C) Araç hareket etmez, motor bağırır",
+      "D) Frenler tutmaz"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 72,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "ABS fren sisteminin sürücüye sağladığı en önemli avantaj nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Tekerleklerin kilitlenmesini önleyerek direksiyon hakimiyetini korumak",
+      "B) Fren mesafesini her zeminde sıfıra indirmek",
+      "C) Yakıt tüketimini yarı yarıya düşürmek",
+      "D) El freninin otomatik çekilmesini sağlamak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 73,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araçta elektrik devresindeki sigorta attığında yerine ne takılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Daha kalın tel",
+      "B) Aynı amper değerinde yeni sigorta",
+      "C) Alüminyum folyo",
+      "D) Çivi"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 74,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yaşam kurtarma zincirinin ilk halkası aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hastanede müdahale yapılması",
+      "B) Ambulans ekibince müdahale",
+      "C) Olay yerinde temel yaşam desteği",
+      "D) Sağlık kuruluşuna haber verilmesi (112 aranması)"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 75,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Büyük atardamar kanamalarında kanayan yer ile kalp arasındaki baskı noktasına baskı uygulamak yetersiz kaldığında hangi yöntem uygulanır?",
+    "resim": null,
+    "secenekler": [
+      "A) Yara üzerine sıcak su kompresi",
+      "B) Yarayı kolonya ile silmek",
+      "C) Turnike uygulaması",
+      "D) Şok pozisyonu vermek"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 76,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Bilinci kapalı olan ve solunumu ile nabzı devam eden kazazedeye hangi pozisyon verilmelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Koma pozisyonu (Yarı yüzüstü yan yatış)",
+      "B) Oturtma pozisyonu",
+      "C) Sırtüstü düz yatış",
+      "D) Şok pozisyonu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 77,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Şok pozisyonunda kazazedenin bacakları yaklaşık kaç santimetre yukarı kaldırılır?",
+    "resim": null,
+    "secenekler": [
+      "A) 10 cm",
+      "B) 30 cm",
+      "C) 50 cm",
+      "D) 70 cm"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 78,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kırık ve çıkık vakalarında ilk yardımcının nasıl davranması gerekir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kırık kemiği yerine oturtmaya çalışmalıdır",
+      "B) Çıkan eklemi çekerek düzeltmelidir",
+      "C) Yaralı bölgeye masaj yapmalıdır",
+      "D) Yaralı bölgeyi hareket ettirmeden sabitlemelidir (tespit)"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 79,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kimyasal madde veya petrol türevi zehirlenmelerde ilk yardımcının asla yapmaması gereken şey nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) 112'ye haber vermek",
+      "B) Temiz havaya çıkarmak",
+      "C) Kazazedeyi kusturmaya çalışmak",
+      "D) Bilincini kontrol etmek"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 80,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Boyun omurga kırığı şüphesi olan bir kazazede taşınırken nelere dikkat edilmelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Baş-boyun-gövde ekseni bozulmadan sert bir sedyeyle taşınmalıdır",
+      "B) Kollarından tutup hızla yürütülmelidir",
+      "C) Kafası öne doğru bükülerek taşınmalıdır",
+      "D) Kucağa alınıp taşınmalıdır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 81,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yetişkinlerde temel yaşam desteği sırasında dış kalp masajı dakikada kaç kez uygulanmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) 60 kez",
+      "B) 100 - 120 kez",
+      "C) 140 kez",
+      "D) 160 kez"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 82,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yanık nedeniyle oluşan su toplamış kabarcıklar (büller) ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "resim": null,
+    "secenekler": [
+      "A) İğneyle delinip içindeki su boşaltılmalıdır",
+      "B) Üzerine diş macunu sürülmelidir",
+      "C) Patlatılıp açık bırakılmalıdır",
+      "D) Kesinlikle patlatılmamalıdır"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 83,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza yerinde ilk yardımcının yapacağı ilk ve en önemli iş nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yaralıların kimliğini öğrenmek",
+      "B) Araçtaki hasarı tespit etmek",
+      "C) Olay yerinde can güvenliğini sağlamak",
+      "D) Trafik polisine haber vermek"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 84,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Havale geçiren çocukta ilk yardım olarak ne yapılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Islak havlu veya ılık suyla vücut sıcaklığı düşürülmeye çalışılır",
+      "B) Ağzına sert cisimler sokulmaya çalışılır",
+      "C) Kolları ve bacakları sıkıca bağlanır",
+      "D) Soğuk suya sokulur"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 85,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Omurga yaralanmalarında en büyük tehlike nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Saç dökülmesi",
+      "B) Yanlış taşıma sonucu kalıcı felç oluşması",
+      "C) Kan şekeri düşmesi",
+      "D) Göz tansiyonu"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 86,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Marş anahtarı çevrildiği halde marş motoru hiç ses çıkarmıyor ve farlar yanmıyorsa arıza muhtemelen nerededir?",
+    "resim": null,
+    "secenekler": [
+      "A) Bujilerdedir",
+      "B) Egzozdadır",
+      "C) Vites kutusundadır",
+      "D) Akü boşalmıştır veya kutup başları gevşektir"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 87,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç lastiği değiştirilirken aracın krikoyla kaldırılmasından hemen önce ne yapılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Direksiyon kilitlenmelidir",
+      "B) Motor çalıştırılmalıdır",
+      "C) Bijon somunları hafifçe gevşetilmelidir",
+      "D) Far lambaları açılmalıdır"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 88,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Seyir halindeyken araçtan yoğun yakıt kokusu alınırsa sürücü ne yapmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Durup kontak kapatılmalı, sigara içilmemelidir",
+      "B) Hız artırılarak en yakın servise gidilmelidir",
+      "C) Camlar açılıp yola devam edilmelidir",
+      "D) Radyo kapatılıp farlar yakılmalıdır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 89,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Yakıt sistemine hava girmesi durumunda araç nasıl bir tepki verir?",
+    "resim": null,
+    "secenekler": [
+      "A) Sürekli hızlanır",
+      "B) Çalışmaz veya tekleyerek çalışır",
+      "C) Sadece gece çalışır",
+      "D) Yakıt tüketimi sıfıra düşer"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 90,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorda yağlama sisteminin temel görevi aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Aküyü şarj etmek",
+      "B) Motoru soğutmak",
+      "C) Yakıtı filtrelemek",
+      "D) Hareketli parçalar arasındaki sürtünmeyi ve aşınmayı azaltmak"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 91,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Dizel (motorinli) motorlarda sıkıştırma sonunda kızgın hava üzerine püskürtülen yakıt nasıl ateşlenir?",
+    "resim": null,
+    "secenekler": [
+      "A) Buji kıvılcımı ile",
+      "B) Akü akımı ile",
+      "C) Sıcak havanın etkisiyle (kendiliğinden)",
+      "D) Marş motoru ile"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 92,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Bujilerin aşınması veya kurum bağlaması motoru nasıl etkiler?",
+    "resim": null,
+    "secenekler": [
+      "A) Yakıt sarfiyatı artar, motor tekleyerek çalışır",
+      "B) Motor gücü iki katına çıkar",
+      "C) Frenler daha iyi tutar",
+      "D) Akü şarjı güçlenir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 93,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Vantilatör kayışının kopması durumunda gösterge panelinde hangi lamba yanar?",
+    "resim": null,
+    "secenekler": [
+      "A) Yakıt lambası",
+      "B) Şarj ikaz lambası",
+      "C) ABS lambası",
+      "D) Park lamba uyarısı"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 94,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motor çalışır vaziyette iken hidrolik direksiyon neden sertleşir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yağmur yağdığı için",
+      "B) Benzin bittiği için",
+      "C) Far açık kaldığı için",
+      "D) Direksiyon hidrolik yağı bittiyse veya kayışı koptuysa"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 95,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte öfke yönetimi ve stresle başa çıkma konusunda aşağıdakilerden hangisi yanlıştır?",
+    "resim": null,
+    "secenekler": [
+      "A) Derin nefes almak",
+      "B) Karşı tarafı anlamaya çalışmak",
+      "C) Öfkeyi bastırmak yerine saldırganlaşmak",
+      "D) Sakin kalmaya özen göstermek"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 96,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte zor bir durumda geçiş hakkı veren veya yol açan sürücüye el sallayarak ya da tebessüm ederek teşekkür etmek neyi gösterir?",
+    "resim": null,
+    "secenekler": [
+      "A) Saygı ve nezaketi",
+      "B) Aceleciliği",
+      "C) Kural bilmemeyi",
+      "D) Bencilliği"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 97,
+    "kategori": "Trafik Adabı",
+    "soru": "Kırmızı ışıkta geçen veya geçmeye çalışan yayalara karşı sabırlı davranıp ilk geçiş hakkını veren sürücünün tutumu hangisini gösterir?",
+    "resim": null,
+    "secenekler": [
+      "A) Korkaklığı",
+      "B) Trafik kurallarına ve insan hayatına saygıyı",
+      "C) Zaman kaybını",
+      "D) Kuralsızlığı"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 98,
+    "kategori": "Trafik Adabı",
+    "soru": "Kendi hakkını başkasının lehine fedakarca verebilme erdemine ne ad verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Bencillik",
+      "B) Sabırsızlık",
+      "C) İnatçılık",
+      "D) Diğergamlık (Özgecilik)"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 99,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte kural ihlali yapan bir sürücüye korna çalarak ve el kol hareketi yaparak tepki göstermek neye yol açar?",
+    "resim": null,
+    "secenekler": [
+      "A) Sorunun çözülmesine",
+      "B) Trafiğin rahatlamasına",
+      "C) Trafik gerginliğinin ve kaza riskinin artmasına",
+      "D) Karşı tarafın kuralları öğrenmesine"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 100,
+    "kategori": "Trafik Adabı",
+    "soru": "Şehir içinde trafiğin sıkışık olduğu anlarda gereksiz yere korna çalmak trafik adabına göre nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Çevre gürültüsüne ve diğer sürücülerde stres oluşmasına yol açan olumsuz bir davranıştır",
+      "B) Trafiği açmanın tek yoludur",
+      "C) Zorunlu bir uygulamadır",
+      "D) Hızlanmayı sağlar"
+    ],
+    "cevap": 0
+  },{
+    "id": 101,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhası sürücüye aşağıdakilerden hangisini bildirir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Turkey_road_sign_T-15.svg/320px-Turkey_road_sign_T-15.svg.png",
+    "secenekler": [
+      "A) Yolda gizli buzlanma olabileceğini",
+      "B) Kaygan yol kesimine yaklaşıldığını",
+      "C) Yolda kasis bulunduğunu",
+      "D) Yolda yapım veya bakım çalışması olduğunu"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 102,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhasını gören sürücünün aşağıdakilerden hangisini yapması zorunludur?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Turkey_road_sign_TT-18.svg/320px-Turkey_road_sign_TT-18.svg.png",
+    "secenekler": [
+      "A) Sağa sinyal vererek sağa dönmesi",
+      "B) Sadece kamyonların girebileceği bir yola girmesi",
+      "C) Sağa dönüş yapmasının yasak olduğunu bilerek düz veya sola devam etmesi",
+      "D) Hızını artırarak sağa geçmesi"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 103,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik kaza riski en yüksek olan saat dilimleri genellikle sürücülerin biyolojik ritminde uyku halinin arttığı saatlerdir. Aşağıdakilerden hangisi bu saatlerde sürüş güvenliğini artırır?",
+    "resim": null,
+    "secenekler": [
+      "A) Düzenli mola verip temiz hava almak ve dinlenmek",
+      "B) Ağır yemekler yiyerek yola çıkmak",
+      "C) Araç sıcaklığını yüksek tutmak",
+      "D) Camları tamamen kapatıp yüksek sesle müzik dinlemek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 104,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Karayolunda motorlu araç taşıyabilen ve özel donanımı bulunan araç çekicilerine veya vinçlere ne ad verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) İş makinesi",
+      "B) Kurtarıcı (Kurtarma aracı)",
+      "C) Arazi taşıtı",
+      "D) Özel amaçlı taşıt"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 105,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücülerin hemzemin geçitlere (demiryolu geçitlerine) yaklaşırken yapması gereken doğru davranış hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hızını artırarak bariyer inmeden geçmeye çalışmak",
+      "B) Öndeki aracı sollayarak öne geçmek",
+      "C) Yavaşlamak, bariyer kapalıysa durup trenin geçmesini beklemek",
+      "D) Korna çalarak bekleyen araçları uyararak öne geçmek"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 106,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Uyuşturucu veya uyarıcı madde aldığı tespit edilen sürücünün sürücü belgesi kaç yıl süreyle geri alınır?",
+    "resim": null,
+    "secenekler": [
+      "A) 6 Ay",
+      "B) 2 Yıl",
+      "C) 5 Yıl",
+      "D) Süresiz (İptal)"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 107,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aracın muayene süresi dolduğu halde trafiğe çıkarılması durumunda sürücüye uygulanan idari işlem hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Para cezası uygulanır ve araca muayene yaptırması için süre verilir",
+      "B) Sürücü belgesi doğrudan iptal edilir",
+      "C) Aracına el koyularak hurdaya ayrılır",
+      "D) Sürücü 1 yıl hapis cezası alır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 108,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Işıklı trafik işaret cihazında kırmızı ok ışığı yandığında sürücüler ne yapmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Ok yönüne dönüş serbesttir",
+      "B) Ok yönüne yapılacak dönüşler için durulmalıdır",
+      "C) Yavaşlayıp sağa veya sola bakarak dönülmelidir",
+      "D) Flaşörleri yakarak ok yönünde hızlanılmalıdır"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 109,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Gündüzleri sisli ve görüş mesafesinin çok düşük olduğu havalarda sürücülerin yakması gereken lambalar hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Uzun huzreli farlar",
+      "B) Sis lambaları veya kısa huzreli farlar",
+      "C) Sadece iç aydınlatma lambası",
+      "D) Sadece sinyal lambaları"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 110,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafikte güvenlik sağlayan çocuk koruma koltuğu (çocuk koltuğu) hangi ağırlık veya boyun altındaki çocuklar için zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) 150 cm'den kısa ve 36 kg'ın altındaki çocuklar",
+      "B) 100 cm'den kısa ve 10 kg'ın altındaki çocuklar",
+      "C) 180 cm'den kısa her birey",
+      "D) Sadece 0-6 ay arası bebekler"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 111,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Gece seyahat ederken öndeki araç yakın mesafeden takip ediliyorsa hangi farlar kullanılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Uzağı gösteren farlar",
+      "B) Yakını gösteren (kısa) farlar",
+      "C) Sis farları ve tepe lambası",
+      "D) Flaşörler (dörtlüler)"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 112,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik zabıtasının (polisinin) geceleyin kollarını veya ışıklı işaret çubuğunu yatay doğrultuda sallaması ne anlama gelir?",
+    "resim": null,
+    "secenekler": [
+      "A) Dur işareti",
+      "B) Geç işareti",
+      "C) Yavaşla işareti",
+      "D) Hızlan işareti"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 113,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Otoyollara girmesi yasak olan taşıt veya canlılar aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Otobüsler",
+      "B) Yaya, at arabası ve traktör",
+      "C) Kamyonlar",
+      "D) Motosikletler"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 114,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aracının egzoz susturucusu patlak veya sökülmüş olan bir sürücünün trafiğe çıkması neye sebep olur?",
+    "resim": null,
+    "secenekler": [
+      "A) Yakıt tasarrufuna",
+      "B) Gürültü kirliliğine ve çevre rahatsızlığına",
+      "C) Motor soğumasına",
+      "D) Fren mesafesinin kısalmasına"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 115,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Karayolu üzerinde yapılan tehlikeli madde taşımacılığında araçta bulundurulması gereken özel ekipman hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kasko poliçesi",
+      "B) Radyo ve navigasyon",
+      "C) En az iki adet yangın söndürme cihazı ve turuncu ikaz levhaları",
+      "D) Stepne kılıfı"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 116,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Taşıt yolunda yaya geçitlerine yaklaşırken sürücülerin aşağıdakilerden hangisini yapması zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) Hızını azaltıp, karşıya geçen yayalara ilk geçiş hakkını vermek",
+      "B) Korna çalarak yayaların durmasını sağlamak",
+      "C) Sol şeride geçip hızlanmak",
+      "D) Yayaların geçişini engellemek için öndeki araca yaklaşmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 117,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücülerin görüş açısını kısıtlayan cam filmleri veya renkli camların mevzuata aykırı kullanımı durumunda uygulanan ceza nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Ehliyete el koyma",
+      "B) İdari para cezası ve camların standartlara uygun hale getirilmesi şartı",
+      "C) Trafikten ömür boyu men",
+      "D) Hapis cezası"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 118,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Kontrolsüz bir kavşakta motorlu araçlar ile motorsuz araçlar karşılaştığında geçiş hakkı hangisinindir?",
+    "resim": null,
+    "secenekler": [
+      "A) Motorsuz araçların",
+      "B) Yük taşıyan araçların",
+      "C) Motorlu araçların",
+      "D) Soldaki aracın"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 119,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Karayolu sınır çizgisi içinde kalan yaya, araç ve hayvanların yararlandığı alana ne ad verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Banket",
+      "B) Karayolu (Karayolu yapısı)",
+      "C) Şerit",
+      "D) Platform"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 120,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Geçiş üstünlüğüne sahip araçların tepe lambaları renkleri genel olarak nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Sadece sarı",
+      "B) Kırmızı - Mavi veya Mavi - Mavi",
+      "C) Yeşil - Beyaz",
+      "D) Turuncu - Mor"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 121,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Geri vitese takılan bir araçta arkadaki sürücüleri uyaran geri vites lambaları hangi renk ışık verir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kırmızı",
+      "B) Sarı",
+      "C) Mavi",
+      "D) Beyaz"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 122,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Duraklanan veya park edilen yerden ayrılırken sürücülerin yapması gereken ilk işlem nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Aynalarla trafiği kontrol edip uygun yöne sinyal vermek",
+      "B) Doğrudan gaza basıp yola fırlamak",
+      "C) Dörtlü flaşörleri yakıp geri gitmek",
+      "D) Korna çalarak diğer araçları durdurmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 123,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhası neyi bildirir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Turkey_road_sign_TT-26.svg/320px-Turkey_road_sign_TT-26.svg.png",
+    "secenekler": [
+      "A) Gümrük kontrol noktasına yaklaşıldığını ve durulması gerektiğini",
+      "B) Tehlikeli madde taşıyan araçların giremeyeceğini",
+      "C) Park etmenin serbest olduğunu",
+      "D) Hız sınırının sona erdiğini"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 124,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Gözüne yabancı cisim (toz, çöp vb.) kaçmış olan kişide ilk yardım olarak ne yapılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Göz ovuşturularak temizlenmeye çalışılır",
+      "B) Göz bol ve temiz suyla yıkanır veya nemli bezle temizlenir",
+      "C) Göze kolonya damlatılır",
+      "D) Cisim sivri bir cımbızla kazınır"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 125,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Sıcak çarpması (güneş çarpması) geçiren bir kazazedeye uygulanacak ilk yardım yöntemi hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kazazede serin bir yere alınır, giysileri gevşetilir ve ılık su verilip soğutulur",
+      "B) Üzerine kalın battaniyeler örtülür",
+      "C) Sıcak çay veya kahve içirilir",
+      "D) Kazazede koşturularak terletilir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 126,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Göğsünde açık delici yara olan ve solunum zorluğu çeken kazazedeye hangi pozisyon verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yarı oturuş veya oturur pozisyon",
+      "B) Şok pozisyonu",
+      "C) Yüzüstü yatış pozisyonu",
+      "D) Ayakta dik durma pozisyonu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 127,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza geçiren bebeklerde (0-1 yaş) temel yaşam desteği uygulanırken göğüs basısı derinliği kaç cm olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) 1 cm",
+      "B) 4 cm (Göğüs yüksekliğinin 1/3'ü)",
+      "C) 8 cm",
+      "D) 10 cm"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 128,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Sara (Epilepsi) krizi geçiren bir hastaya ilk yardımcının yapması gereken en doğru davranış nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Soğan veya kolonya koklatıp hastayı bağlamak",
+      "B) Ağzına zorla tahta kaşık sokmak",
+      "C) Hastayı güvenli bir alana alıp başını korumak, krizin kendiliğinden geçmesini beklemek",
+      "D) Üzerine soğuk su dökmek"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 129,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza yerinde bilinci kapalı olan kazazedenin hava yolunu açmak için uygulanan manevra hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Baş geri - Çene yukarı manevrası",
+      "B) Rentek manevrası",
+      "C) Heimlich manevrası",
+      "D) Şok manevrası"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 130,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kırık tespitinde kullanılan sabitleyici tahta veya plastik ilk yardım malzemesine ne ad verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Turnike",
+      "B) Atel",
+      "C) Tampon",
+      "D) Sedyatör"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 131,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Aşağıdakilerden hangisi kılcal damar kanamasının belirgin özelliğidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Fışkırır tarzda ve açık kırmızı akması",
+      "B) Koyu kırmızı ve sızıntı şeklinde akması",
+      "C) Küçük kabarcıklar veya sızıntı şeklinde hafifçe kanaması",
+      "D) Durdurulamayan fışkırmalar yapması"
+    ],
+    "cevap": 2
+  },
+  {
+    "id": 132,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kazazedenin bilincinin kapalı olması durumunda dilin geriye kayması neye yol açar?",
+    "resim": null,
+    "secenekler": [
+      "A) Soluk yolunun tıkanmasına ve boğulmaya",
+      "B) Kalbin hızlı çalışmasına",
+      "C) Kan şekerinin yükselmesine",
+      "D) Kırıkların iyileşmesine"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 133,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Köprücük kemiği kırıklarında yaralı bölge nasıl sabitlenir?",
+    "resim": null,
+    "secenekler": [
+      "A) Sekiz (8) şeklinde sargı bezi uygulanarak",
+      "B) Alçıya alınarak",
+      "C) Turnike sıkılarak",
+      "D) Bacakla birlikte bağlanarak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 134,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza yerinde ilk yardım uygulayan kişinin öncelikli niteliği ne olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) İlaç ve tıbbi malzemeye sahip olması",
+      "B) Önce kendi can güvenliğini koruyarak sakin ve kararlı olması",
+      "C) Doktor unvanına sahip olması",
+      "D) Hızlı koşabiliyor olması"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 135,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Deniz suyu veya havuzda boğulma tehlikesi geçiren kişide ilk yardım olarak yapılması gereken nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Sudan çıkarıp hemen temel yaşam desteğine (solunum ve kalp masajı) başlamak",
+      "B) Karnına basıp akciğerdeki tüm suyu çıkarmaya zaman harcamak",
+      "C) Amuda kaldırıp sallamak",
+      "D) Başını geriye büküp bekletmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 136,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araçta polen filtresinin görevi nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Motor yağını süzmek",
+      "B) Araç içine (klimaya) giren havadaki toz ve polenleri tutmak",
+      "C) Yakıtı temizlemek",
+      "D) Egzoz gazını filtrelemek"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 137,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Sürüş sırasında direksiyonda aşırı titreşim (balanssızlık) hissediliyorsa problem nerededir?",
+    "resim": null,
+    "secenekler": [
+      "A) Ön tekerleklerin balans ayarı bozulmuştur",
+      "B) Motor yağı azalmıştır",
+      "C) Akü zayıflamıştır",
+      "D) Şanzıman yağı kaçırıyordur"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 138,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araçta yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Ani duruş ve kalkışlardan kaçınmak, sabit hızla sürmek",
+      "B) Düşük vites yüksek devirde sürmek",
+      "C) Araç tavanında sürekli ağır yük taşımak",
+      "D) Lastik havalarını düşük tutmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 139,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Süspansiyon sisteminde yer alan ve yoldan gelen darbe ile titreşimleri sönümleyen eleman hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Şaft",
+      "B) Amortisör ve helezon yaylar",
+      "C) Diferansiyel",
+      "D) Karbüratör"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 140,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Dizel motorlu araçlarda yakıt deposundaki suyun süzülmesini sağlayan parça hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yağ filtresi",
+      "B) Yakıt (Su ayırıcı) filtresi",
+      "C) Hava filtresi",
+      "D) Polen filtresi"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 141,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorlu araçlarda diferansiyelin temel görevi nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Virajlarda iç ve dış tekerleklerin farklı hızlarda dönmesini sağlamak",
+      "B) Motoru soğutmak",
+      "C) Vitesi otomatik değiştirmek",
+      "D) Elektrik üretmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 142,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç gösterge panelinde yer alan devir saati (takometre) sürücüye neyi gösterir?",
+    "resim": null,
+    "secenekler": [
+      "A) Aracın kilometresini",
+      "B) Motorun dakikadaki dönme sayısını (RPM)",
+      "C) Hız sınırını",
+      "D) Yağ basıncını"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 143,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Fren hidrolik yağı eksilirse veya sistem hava yaparsa ne gibi bir arıza meydana gelir?",
+    "resim": null,
+    "secenekler": [
+      "A) Fren pedalı yumuşar ve tutma mesafesi uzar (fren zayıflar)",
+      "B) Motor hararet yapar",
+      "C) Farlar sönük yanar",
+      "D) Direksiyon kilitlenir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 144,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Dizel motorlu araçların gösterge panelindeki 'Kızdırma Bujisi' (Ön Isıtma) lambası söndükten sonra ne yapılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Marşa basılarak motor çalıştırılmalıdır",
+      "B) Kontak hemen kapatılmalıdır",
+      "C) Yağ kontrol edilmelidir",
+      "D) Depo doldurulmalıdır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 145,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte ambülans veya itfaiye siren sesini duyduğunda derhal fermuar yöntemiyle sağa/sola çekilip koridor açan sürücünün bu davranışı ne tür bir bilinci yansıtır?",
+    "resim": null,
+    "secenekler": [
+      "A) Bireysel çıkar arayışını",
+      "B) Yüksek vatandaşlık bilinci ve empati duygusunu",
+      "C) Acemiliği ve heyecanı",
+      "D) Kuralları ezbere uygulamayı"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 146,
+    "kategori": "Trafik Adabı",
+    "soru": "Yağmurlu ve çamurlu havalarda kaldırımda yürüyen yayaların yanından geçerken hızını azaltan sürücünün sergilediği tutum nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Nezaket, saygı ve diğergamlık",
+      "B) Zaman kaybetme korkusu",
+      "C) Bencillik",
+      "D) Gösteriş yapma arzusu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 147,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafik sıkışıklığında sabırsızlanıp emniyet şeridini ihlal ederek diğer sürücülerin hakkını gasp etmek hangi kavramla açıklanır?",
+    "resim": null,
+    "secenekler": [
+      "A) Hak ihlali ve bencillik",
+      "B) Şehir içi pratiklik",
+      "C) Sürüş yeteneği",
+      "D) Çevreye uyum sağlama"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 148,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafik ortamında diğer sürücülere karşı nazik, anlayışlı ve hoşgörülü olmanın toplumsal açıdan en büyük faydası nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Araçların yakıt tüketimini sıfırlaması",
+      "B) Trafik kazalarını ve gerginlikleri azaltarak huzurlu bir ortam sağlaması",
+      "C) Otomobil fiyatlarını düşürmesi",
+      "D) Sınav geçme puanını artırması"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 149,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte hatalı bir davranış sergilediğinde diğer sürücüden özür dilercesine el işareti yapan kişinin davranışı hangisini gösterir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hatasını kabul edebilme erdemini ve olgunluğunu",
+      "B) Kural ihlaline devam edeceğini",
+      "C) Korkak ve çekingen biri olduğunu",
+      "D) Aracının arızalı olduğunu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 150,
+    "kategori": "Trafik Adabı",
+    "soru": "Gereksiz yere ve sürekli olarak uzun farları yakıp öndeki veya karşıdaki sürücülerin gözünü kamaştırmak trafik adabı açısından nasıl değerlendirilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Saygısız ve diğer sürücülerin can güvenliğini tehlikeye atan bir davranış",
+      "B) Sürüş kalitesini artıran faydalı bir alışkanlık",
+      "C) Karayollarında zorunlu bir tutum",
+      "D) Gece sürüşünün temel esası"
+    ],
+    "cevap": 0
+  }{
+    "id": 151,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhasını gören sürücünün aşağıdakilerden hangisini yapması gerekir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Turkey_road_sign_TT-21.svg/320px-Turkey_road_sign_TT-21.svg.png",
+    "secenekler": [
+      "A) Sola dönüş yapmasının yasak olduğunu bilerek yoluna devam etmesi",
+      "B) Hızlanarak sola dönmesi",
+      "C) Geri vitese takıp manevra yapması",
+      "D) Sadece kamyonların sola dönebileceğini anlaması"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 152,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhası sürücüye aşağıdakilerden hangisini bildirir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Turkey_road_sign_T-22.svg/320px-Turkey_road_sign_TT-22.svg.png",
+    "secenekler": [
+      "A) Yolda kasis bulunduğunu",
+      "B) Sağdan ana yola katılım olduğunu",
+      "C) Gevşek malzeme zeminli yola girildiğini",
+      "D) İleride yolun iki taraftan daraldığını (Daralan kaplama)"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 153,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret bulunmadığı sürece, yerleşim yeri dışındaki iki yönlü karayollarında otobüsler için azami hız sınırı saatte kaç kilometredir?",
+    "resim": null,
+    "secenekler": [
+      "A) 70 km/s",
+      "B) 80 km/s",
+      "C) 90 km/s",
+      "D) 100 km/s"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 154,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret yoksa, eğimsiz iki yönlü dar karayolunda karşılaşmada motorsuz araç kullananlar, hangi tür araca yol vermelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Motosiklete",
+      "B) Motorlu araçlara",
+      "C) Yaya geçişine",
+      "D) Traktöre"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 155,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücülerin trafik güvenliği açısından araçlarında bulundurması zorunlu olan ve kaza anında arkadan gelenleri uyarmak için kullanılan cihaz hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Takograf",
+      "B) Reflektör (Engel işaretleme cihazı)",
+      "C) Yangın tüpü kılıfı",
+      "D) Navigasyon ekranı"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 156,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir karar yoksa, bitişik nizam şehir içi yollarda aks yükü (dingil ağırlığı) hariç araçların azami ağırlık sınırı aşılmadığı sürece park etme kurallarına göre hangi bölümlere park edilebilir?",
+    "resim": null,
+    "secenekler": [
+      "A) İşaretlerle belirlenmiş yol kenarı park yerlerine",
+      "B) Yaya geçitlerinin tam üzerine",
+      "C) Kavşak ve köprü çıkışlarına",
+      "D) Yangın musluklarının önüne"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 157,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücü belgelerinin sınıfına göre hangi araçları sürebileceği Karayolları Trafik Yönetmeliği'nde belirlenmiştir. Buna göre B sınıfı sürücü belgesi alan bir kişi aşağıdaki araçlardan hangisini sürebilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Tır ve çekici",
+      "B) Otomobil ve kamyonet",
+      "C) Büyük otobüs",
+      "D) İş makinesi (Greyder)"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 158,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik zabıtası veya yetkili kişilerce verilecek dur işaretinde, durma ve duraklama yasaklanan yerler hariç olmak üzere araçların durdurulacağı hat hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Güvenli duruş çizgisi veya kavşak giriş hattı",
+      "B) Sadece yolun ortası",
+      "C) Emniyet şeridinin en ucu",
+      "D) Banket dışı toprak zemin"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 159,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Hususi otomobillerin dış ışık donanımlarının (farlar, stoplar, sinyaller) faal ve standartlara uygun olması hangi periyodik denetimde kontrol edilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Sadece kasko sigortası yenilemesinde",
+      "B) Periyodik araç muayenesinde",
+      "C) Akaryakıt alımında",
+      "D) Şehirler arası yolculuk başlangıcında"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 160,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Geceleri seyrederken uzağı gösteren farların yakılması gereken yerler haricinde (aydınlatmanın yeterli olduğu yerler vb.) hangi farların kullanılması zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) Yakını gösteren (kısa) farlar",
+      "B) Sis farları",
+      "C) Park lambaları",
+      "D) Dörtlü flaşörler"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 161,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik işaret levhalarına zarar veren veya yerini değiştiren kişilere karşı uygulanacak yasal yaptırım sonucunda ne yapılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Masraflar ve idari para cezası tahsil edilir, adli işlem yapılır",
+      "B) Ödül verilir",
+      "C) Sadece uyarılıp serbest bırakılır",
+      "D) Ehliyetine 1 hafta süreyle ceza puanı yazılmadan izin verilir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 162,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Taşıt yolunda sola dönmek isteyen sürücülerin aşağıdakilerden hangisini yapması zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) Sağa yanaşıp durmak",
+      "B) Yolun sol şeridine veya sol yön işaretli şeridine zamanında yaklaşmak",
+      "C) Hızlanarak sağ şeritten dönmek",
+      "D) Kornaya basarak kavşağa girmek"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 163,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Araçların tescil işlemlerinin yapılması ve tescil belgesi verilmesi hangi kurumun görevidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Emniyet Genel Müdürlüğü (Trafik Kuruluşları / Noterler)",
+      "B) Karayolları Genel Müdürlüğü",
+      "C) Belediyeler",
+      "D) Sağlık Bakanlığı"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 164,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Otoyollarda arızalanan bir aracın emniyet şeridinde durması durumunda sürücünün uyması gereken güvenlik kuralı hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Aracın arkasına uygun mesafeye reflektör koymak, sürücü ve yolcuların bariyer dışında güvenli alana çıkması",
+      "B) Aracın içinde kapıları kilitli şekilde oturmak",
+      "C) Yolu tamamen kapatacak şekilde durup yardım beklemek",
+      "D) Aracı yavaşça otoyol ortasında bırakıp yürümek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 165,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücülerin trafikte seyir halindeyken cep telefonu kullanmalarının yasak olmasının temel sebebi nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Araç bataryasının bitmesini engellemek",
+      "B) Sürücünün dikkatini dağıtarak kaza riskini artırması",
+      "C) İnternet kotasını korumak",
+      "D) Araç içi ses seviyesini düşürmek"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 166,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik kazalarında asli kusur sayılan hallerden biri aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Arkadan çarpmak",
+      "B) Temiz araç kullanmak",
+      "C) Düşük hızla gitmek",
+      "D) Emniyet kemeri takmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 167,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şehirler arası yollarda taşıtların arızalanması veya zorunlu hallerde duraklaması durumunda görüş mesafesinin yeterli olduğu gün ışığında reflektör hangi mesafeye konulmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) En az 30 metre mesafeye ve diğer sürücülerin rahatça görebileceği konuma",
+      "B) Sadece 1 metre mesafeye",
+      "C) 500 metre ileriye",
+      "D) Aracın tam altına"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 168,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Kavşak kollarının trafik yoğunluğu açısından farklı olması durumunda ana yol - tali yol ayrımı nasıl anlaşılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Trafik işaret levhaları (Ana yol / Yol Ver levhaları) ile",
+      "B) Sürücülerin korna sesleriyle",
+      "C) Yolun asfalt rengiyle",
+      "D) Hava sıcaklığıyla"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 169,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Karayolu üzerinde yayaların karşıdan karşıya güvenle geçebilmesi için yapılan üst ve alt geçitlerin bulunması durumunda yayaların uyması gereken kural nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Bu geçitleri kullanmaları zorunludur",
+      "B) İsteyen yoldan, isteyen geçitten geçebilir",
+      "C) Sadece gece vakti geçitler kullanılır",
+      "D) Yayaların bu geçitleri kullanması yasaktır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 170,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Manevra yapacak olan sürücülerin niyetlerini önceden diğer sürücülere bildirmek için kullanmak zorunda olduğu donanım hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Sinyal lambaları (Yön değiştirme lambaları)",
+      "B) Far yükseklik ayarı",
+      "C) Klima düğmesi",
+      "D) Silecek kolu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 171,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Araçların dönüş lambalarının (sinyallerin) şehir içindeki dönemeçlere veya kavşaklara yaklaşırken kaç metre kala yakılması zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) En az 30 metre kala",
+      "B) 500 metre kala",
+      "C) 1 metre kala",
+      "D) Dönüş bittikten sonra"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 172,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Yol üzerindeki yatay işaretlemelerden biri olan 'Devamlı Yol Çizgisi' sürücülere neyi bildirir?",
+    "resim": null,
+    "secenekler": [
+      "A) Bu çizginin soluna geçilemeyeceğini ve şhat değiştirmenin yasak olduğunu",
+      "B) İstendiği gibi öndeki aracın geçilebileceğini",
+      "C) Park etmenin serbest olduğunu",
+      "D) Yolun hız sınırının kalktığını"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 173,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhası sürücüye neyi haber verir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Turkey_road_sign_T-31a.svg/320px-Turkey_road_sign_T-31a.svg.png",
+    "secenekler": [
+      "A) İleride iki yönlü trafik akışına geçileceğini",
+      "B) Yolda gizli buzlanma olabileceğini",
+      "C) Ana yol haricinde tali yola girildiğini",
+      "D) Park yasağının sona erdiğini"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 174,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza zedeye müdahale ederken ilk yardımcının kullanacağı tıbbi eldiven veya temiz örtüler neyi amaçlar?",
+    "resim": null,
+    "secenekler": [
+      "A) Enfeksiyon ve bulaşıcı hastalık riskini önlemeyi",
+      "B) Yaralının acısını artırmayı",
+      "C) Kanamayı hızlandırmayı",
+      "D) Yaralının kimliğini gizlemeyi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 175,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Omurga ve boyun yaralanmalarından şüphe edilen bir kazazedenin taşınması sırasında en kritik kural aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Baş-boyun-gövde hizasının bozulmadan düz bir hatta tutulması",
+      "B) Kollarından çekilerek hızla taşınması",
+      "C) Başının öne doğru bükülmesi",
+      "D) Oturtularak taşınması"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 176,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kanama çeşitleri arasında yer alan 'Atardamar Kanaması'nın en belirgin özelliği nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Kalp atışlarıyla uyumlu olarak kesik kesik ve fışkırarak, açık parlak kırmızı renkte akması",
+      "B) Koyu renkli ve sızıntı halinde akması",
+      "C) Küçük damlacıklar halinde yayılması",
+      "D) Hiç kan akmaması"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 177,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Solunum yolu yabancı bir cisimle tıkanan (nefes alamayan, konuşamayan) bir kazazedeye uygulanacak hayat kurtarıcı manevra hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Heimlich Manevrası (Karına bası uygulanması)",
+      "B) Rentek Manevrası",
+      "C) Şok Manevrası",
+      "D) Kalp Masajı"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 178,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yetişkin bir kazazedede yapılan temel yaşam desteği (CPR) uygulamasında göğüs basısı hızı dakikada ne olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) 100 - 120 bası/dakika",
+      "B) 40 - 50 bası/dakika",
+      "C) 150 - 180 bası/dakika",
+      "D) 200 bası/dakika"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 179,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Aşağıdakilerden hangisi şok tablosu içindeki bir kazazedede görülen belirtilerden biridir?",
+    "resim": null,
+    "secenekler": [
+      "A) Ciltte solukluk, soğuk terleme, nabzın hızlı ve zayıf olması",
+      "B) Cildin kıpkırmızı ve ateşinin çok yüksek olması",
+      "C) Bilincin tamamen yerinde ve hareketli olması",
+      "D) Kan basıncının aşırı yükselmesi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 180,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kırık, çıkık veya burkulma vakalarında ilk yardımcının temel yaklaşımı nasıl olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Bölgeyi hareket ettirmeden uygun malzeme (atel) ile sabitlemek",
+      "B) Çıkığı çekerek yerine oturtmaya çalışmak",
+      "C) Kırık kemiğe masaj yapmak",
+      "D) Sıcak uygulama yapmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 181,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Solunumu ve nabzı durmuş olan bir kazazedeye yapılan dış kalp masajı ile suni solunumun birlikte uygulandığı yönteme ne ad verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Temel Yaşam Desteği",
+      "B) Koma bakımı",
+      "C) Şok tedavisi",
+      "D) İlk yardım kontrolü"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 182,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yaralının taşınmasında kullanılan 'Rentek Manevrası' hangi durumda kesinlikle uygulanır?",
+    "resim": null,
+    "secenekler": [
+      "A) Kaza geçiren araçtan yangın veya patlama tehlikesi gibi acil durumlarda yaralıyı güvenle çıkarmak için",
+      "B) Kol kırıklarını sarmak için",
+      "C) Burnu kanayan kişileri oturtmak için",
+      "D) Suda boğulanları kusturmak için"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 183,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Büyük çaplı bir yanık yaralanmasında, yanan bölgeye ilk yardım olarak ne uygulanmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Bol temiz su ile soğutulmalı, steril örtüyle kapatılmalı; diş macunu veya salça sürülmemelidir",
+      "B) Yanık üzerine buz doğrudan bastırılmalıdır",
+      "C) Su toplamış kabarcıklar iğneyle patlatılmalıdır",
+      "D) Yağ veya kolonya sürülmelidir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 184,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Olay yerinde acil yardım ekibi (112) gelinceye kadar ilk yardımcının yapması gereken en temel görev nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hayati tehlikenin devam etmesini önlemek ve kazazedenin durumunun kötüleşmesini engellemek",
+      "B) Kazazedenin ameliyatını gerçekleştirmek",
+      "C) Trafik cezasını kesmek",
+      "D) Kaza raporu tutmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 185,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Zehirlenme vakalarında (ağız yoluyla alınan) ilk yardımcının yapması gereken doğru davranış hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Bilinci yerindeyse ağzı suyla çalkalatmak, zehrin türüne göre 112'ye danışmak (zorla kusturmamak)",
+      "B) Kazazedeyi hemen kusturmak için tuzlu su içirmek",
+      "C) Kusturarak zehri tamamen dışarı atmak",
+      "D) Bilinci kapalıysa ağızdan sıvı vermek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 186,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorun çalışması için gerekli olan elektrik enerjisini sağlayan ve marş motorunu besleyen parça hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Alternatör",
+      "B) Akü",
+      "C) Buji",
+      "D) Enjektör"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 187,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç lastiklerinin hava basınçlarının normalden yüksek olması durumunda hangi olumsuzluk meydana gelir?",
+    "resim": null,
+    "secenekler": [
+      "A) Lastikler ortadan aşınır ve yol tutuşu zayıflar",
+      "B) Yakıt tüketimi aşırı artar",
+      "C) Direksiyon çok ağırlaşır",
+      "D) Fren mesafesi sıfırlanır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 188,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motor yağlama sisteminde kullanılan motor yağının zamanında değiştirilmemesi neye yol açar?",
+    "resim": null,
+    "secenekler": [
+      "A) Motor parçalarının aşırı sürtünme nedeniyle aşınmasına ve zarar görmesine",
+      "B) Aracın daha hızlı gitmesine",
+      "C) Akünün şarj olmasından vazgeçilmesine",
+      "D) Yakıt deposunun dolmasına"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 189,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç seyir halindeyken gösterge panelinde 'Kırmızı Renkli Yağ Basıncı İkaz Lambası' yanarsa sürücü ne yapmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Aracı derhal güvenli bir yere çekip motoru durdurmalıdır",
+      "B) Hızını artırıp en yakın servise gitmelidir",
+      "C) Farları kapatıp yola devam etmelidir",
+      "D) Kornaya basarak uyarı vermelidir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 190,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Dizel motorlu araçların yakıt sisteminde yakıtın silindirlere püskürtülmesini sağlayan eleman hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Enjektör",
+      "B) Karbüratör",
+      "C) Buji",
+      "D) Distribütör"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 191,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araçta frenleme yapıldığında araç bir tarafa doğru çekme yapıyorsa, muhtemel arıza nerededir?",
+    "resim": null,
+    "secenekler": [
+      "A) Ön fren ayarları dengesizdir veya hidrolik kaçağı vardır",
+      "B) Akü zayıflamıştır",
+      "C) Silecek suyu bitmiştir",
+      "D) Hava filtresi kirlenmiştir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 192,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorun soğutma sisteminde su kaçağı veya antifriz yetersizliği nedeniyle motor suyunun kaynama noktasına ulaşmasına ne denir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hararet yapma (Aşırı ısınma)",
+      "B) Şarj arızası",
+      "C) Yakıt regülasyonu",
+      "D) Kompresyon kaçağı"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 193,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Vites kutusunun (şanzımanın) yağ seviyesi kontrolü veya değişimi hangi amaçla yapılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Dişlilerin aşınmasını önlemek ve vites geçişlerini kolaylaştırmak",
+      "B) Aküyü şarj etmek",
+      "C) Motoru soğutmak",
+      "D) Egzoz sesini kısmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 194,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Akü üzerinde bulunan sıvı seviyesinin azalması durumunda hücrelere ne ilave edilmelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Saf su",
+      "B) Saf alkol",
+      "C) Motor yağı",
+      "D) Antifriz"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 195,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafik ortamında sürücülerin birbirlerine karşı tahammüllü olmaları ve hata yapan kişilere korna çalarak bağrışmak yerine hoşgörü göstermesi neyi sağlar?",
+    "resim": null,
+    "secenekler": [
+      "A) Trafik stresi ve kaza riskinin azalmasını",
+      "B) Trafiğin daha da sıkışmasını",
+      "C) Yakıt tüketiminin artmasını",
+      "D) Araçların hızlanmasını"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 196,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte geçiş hakkı kuralına uymayan bir sürücüye karşı öfkelenip el kol hareketleriyle tepki göstermek yerine sakin kalmayı tercih eden sürücü hangi özelliğe sahiptir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yüksek öfke yönetimi ve trafik olgunluğuna",
+      "B) Acemiliğe",
+      "C) Korkaklığa",
+      "D) Kural bilmemeye"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 197,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte yayaların güvenli geçişini sağlamak amacıyla çizilmiş yaya geçidi önünde durarak yayaya öncelik tanıyan sürücünün davranışı hangisini gösterir?",
+    "resim": null,
+    "secenekler": [
+      "A) İnsan hayatına ve kurallara saygıyı",
+      "B) Zaman kaybını",
+      "C) Gereksiz bir davranışı",
+      "D) Trafik kuralı ihlalini"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 198,
+    "kategori": "Trafik Adabı",
+    "soru": "Kendi aracının konforundan ziyade diğer yol kullanıcılarının haklarına saygı duyan ve fedakarlık yapabilen sürücülerin sahip olduğu erdem hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Diğergamlık (Özgecilik)",
+      "B) Bencillik",
+      "C) Sabırsızlık",
+      "D) İnatçılık"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 199,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafik kazası sonrasında tarafların kavga etmek yerine soğukkanlılıkla tutanak tutup birbirlerine yardımcı olmaları trafik adabının hangi yönünü vurgular?",
+    "resim": null,
+    "secenekler": [
+      "A) Toplumsal sorumluluk ve uzlaşı kültürünü",
+      "B) Hak aramaktan vazgeçmeyi",
+      "C) Zaman israfını",
+      "D) Korku duygusunu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 200,
+    "kategori": "Trafik Adabı",
+    "soru": "Şehir içinde geç saatlerde yüksek sesle müzik dinleyerek veya gereksiz korna çalarak ilerleyen sürücünün tutumu trafik adabına göre nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Çevre gürültüsüne sebep olan, diğer insanları rahatsız edici saygısız bir davranıştır",
+      "B) Eğlenceli ve normal bir sürüş tarzıdır",
+      "C) Trafik güvenliğini artıran bir unsurdur",
+      "D) Zorunlu bir uygulamadır"
+    ],
+    "cevap": 0
+  }{
+    "id": 201,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhasını gören sürücünün aşağıdakilerden hangisini yapması gerekir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Turkey_road_sign_TT-2.svg/320px-Turkey_road_sign_TT-2.svg.png",
+    "secenekler": [
+      "A) Sağa dönüş yapmasının yasak olduğunu bilerek yoluna devam etmesi",
+      "B) Hızlanarak sağa dönmesi",
+      "C) Geri vitese takarak beklemesi",
+      "D) Sadece kamyonların sağa dönebileceğini anlaması"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 202,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhası sürücüye aşağıdakilerden hangisini bildirir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Turkey_road_sign_T-28.svg/320px-Turkey_road_sign_T-28.svg.png",
+    "secenekler": [
+      "A) İleride iki yönlü köprü veya yaklaşım olduğunu",
+      "B) Yolda gevşek malzeme veya taş düşebileceğini",
+      "C) İleride yolun sağdan daraldığını",
+      "D) Yolda kasis bulunduğunu"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 203,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret bulunmadığı sürece, yerleşim yeri içindeki iki yönlü karayollarında kamyonlar için azami hız sınırı saatte kaç kilometredir?",
+    "resim": null,
+    "secenekler": [
+      "A) 30 km/s",
+      "B) 50 km/s",
+      "C) 70 km/s",
+      "D) 80 km/s"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 204,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret yoksa, eğimsiz iki yönlü dar karayolunda karşılaşmada otobüs ile minibüsün karşılaşması halinde hangisi diğerine yol vermelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Otobüs minibüse",
+      "B) Minibüs otobüse",
+      "C) Boyu kısa olan diğerine",
+      "D) Yüksüz olan diğerine"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 205,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücülerin araçlarında bulundurması zorunlu olan, kaza veya arıza durumunda diğer sürücüleri erken uyarmak amacıyla kullanılan ışıklı cihaz hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Park lambası",
+      "B) Seyyar (taşınabilir) ışıklı cihaz veya flaşörlü amber rengi uyarı lambası",
+      "C) İç aydınlatma lambası",
+      "D) Far yıkama motoru"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 206,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Park etmenin yasak olduğu yerlerden biri aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yangın musluklarına 5 metre miktarından yakın mesafe",
+      "B) İşaretlerle ayrılmış resmi park alanları",
+      "C) Yol kenarındaki banket dışı boşluklar",
+      "D) Evlerin önündeki garaj girişleri harici normal şeritler"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 207,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "M sınıfı sürücü belgesi hangi tür araçları kapsar?",
+    "resim": null,
+    "secenekler": [
+      "A) Moped (iki, üç veya dört tekerlekli azami hızı saatte 45 km'yi geçmeyen motorlu bisikletler)",
+      "B) Tır ve ağır tonajlı kamyonlar",
+      "C) Büyük otobüsler",
+      "D) Tarım traktörleri"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 208,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik kazası tespit tutanağının düzenlenebilmesi için kazaya karışan tarafların anlaşması halinde hangi şartın sağlanması gerekmez?",
+    "resim": null,
+    "secenekler": [
+      "A) Tarafların anlaşarak tutanağı imzalaması",
+      "B) Trafik polisinin olay yerine gelip rapor tutması şartı aranmaz",
+      "C) Sürücülerin ehliyetlerinin bulunması",
+      "D) Taraflardan birinin alkollü olması zorunludur"
+    ],
+    "cevap": 3
+  },
+  {
+    "id": 209,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Hususi otomobillerin ilk muayene süresi dolduktan sonra kaç yılda bir periyodik muayeneye girmesi gereklidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Her yıl",
+      "B) 2 yılda bir",
+      "C) 3 yılda bir",
+      "D) 5 yılda bir"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 210,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sis lambalarının sis, kar veya şiddetli yağmur sebebiyle görüşün azaldığı haller dışında diğer zamanlarda yakılması neye sebep olur?",
+    "resim": null,
+    "secenekler": [
+      "A) Diğer sürücülerin gözünü kamaştırarak tehlike yaratmasına",
+      "B) Yakıtın tamamen bitmesine",
+      "C) Motorun soğumasına",
+      "D) Frenlerin tutmamasına"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 211,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Karayollarında seyir halindeyken sürücülerin uyması gereken kurallardan biri olan 'sağdan gitme kuralı' gereğince, çok şeritli yollarda genel olarak hangi şeridin sürekli işgal edilmesi yasaktır?",
+    "resim": null,
+    "secenekler": [
+      "A) En sol şeridin (zorunlu haller haricinde sürekli kullanımı yasaktır)",
+      "B) Sağ şeridin",
+      "C) Banketlerin",
+      "D) Orta şeridin"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 212,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sağa dönmek isteyen bir sürücü, dönüş öncesinde hangi kurallara uymalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Sağ şeride veya dönüş için ayrılmış şeride yaklaşmalı, sağ sinyal vermeli ve hızını azaltmalıdır",
+      "B) Sol şeride geçip hızlanarak dönmelidir",
+      "C) Korna çalarak kavşağa girmelidir",
+      "D) Dörtlü flaşörleri yakıp durmalıdır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 213,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafikten men edilen bir aracın karayolunda sürülmesi halinde tespit edilirse uygulanacak işlem nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Para cezası uygulanır ve araç tekrar trafikten alıkonularak otoparka çekilir",
+      "B) Sadece uyarılıp yola devam etmesine izin verilir",
+      "C) Sürücüye ödül verilir",
+      "D) Ehliyeti süresiz geri alınır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 214,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Otoyollarda duraklamak, park etmek veya zorunlu haller dışında durmak niçin kesinlikle yasaktır?",
+    "resim": null,
+    "secenekler": [
+      "A) Arkadan gelen yüksek hızdaki araçlar için büyük bir kaza ve çarpışma tehlikesi oluşturduğu için",
+      "B) Yolun asfaltını bozduğu için",
+      "C) Yakıt sarfiyatını artırdığı için",
+      "D) Sürücünün uykusunu getirdiği için"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 215,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürüş esnasında yorgunluk, uyku hali veya dikkat dağınıklığı hissedildiğinde sürücünün yapması gereken en güvenli davranış nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Güvenli bir dinlenme tesisine veya park alanına çekip dinlenmek",
+      "B) Hızını iki katına çıkarıp bir an önce varış noktasına gitmek",
+      "C) Camı açıp yüksek sesle bağrmak",
+      "D) Müziğin sesini sonuna kadar açıp devam etmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 216,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Kavşaklarda geçiş hakkı kurallarına göre, motorsuz araç sürücülerinin motorlu araçlara yol vermesi kuralı hangi tür kavşaklar için geçerlidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kontrolsüz kavşaklar",
+      "B) Işıklı kavşaklar",
+      "C) Polis denetimindeki kavşaklar",
+      "D) Dönel kavşaklar"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 217,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik kazalarında ölüm ve yaralanma riskini en aza indiren, kaza anında araç dışına savrulmayı önleyen temel güvenlik donanımı hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Emniyet kemeri",
+      "B) Direksiyon kılıfı",
+      "C) Stepne lastik",
+      "D) Geri görüş kamerası"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 218,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Demiryolu hemzemin geçitlerine yaklaşırken sürücülerin uyması gereken en temel hız ve durum kuralı hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hızını azaltmak, kontrollü geçmek ve bariyer kapalıysa kesinlikle durmak",
+      "B) Hızlanarak bariyerin altından geçmek",
+      "C) Kornaya basarak trenin durmasını istemek",
+      "D) Durmaksızın orta şeritten geçmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 219,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Yaya yollarında veya kaldırımlarda park etmenin yasak olmasının temel gerekçesi nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yayaların güvenli yürüyüş alanını kısıtlayarak onları taşıt yoluna çıkmaya zorlaması",
+      "B) Sadece kaldırım taşlarını kırması",
+      "C) Araçların boyasını çizmesi",
+      "D) Belediyenin gelirini azaltması"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 220,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Dönel kavşaklarda kavşak içi adası etrafında dönen araçların geçiş hakkı ile ilgili kural nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Kavşak içinde dönmekte olan araçların geçiş hakkı vardır",
+      "B) Kavşağa sonradan giren aracın geçiş hakkı her zaman önceliklidir",
+      "C) Büyük araçlar her durumda diğerlerini sıkıştırabilir",
+      "D) Geçiş hakkı tamamen soldaki araca aittir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 221,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Geceleyin otoyollarda veya şehirler arası yollarda önünde giden aracı takip ederken hangi ışıkların yakılması zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) Yakını gösteren (kısa) farlar",
+      "B) Uzağı gösteren (uzun) farlar",
+      "C) Sadece sis lambaları",
+      "D) Park lambaları"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 222,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Araçların tescil plakalarının okunmasını engelleyecek şekilde kirli, kapalı veya okunmaz durumda olması durumunda uygulanan ceza nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) İdari para cezası uygulanır ve plakanın okunur hale getirilmesi sağlanır",
+      "B) Ehliyetine ödül verilir",
+      "C) Araç bağışlanır",
+      "D) Herhangi bir işlem yapılmaz"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 223,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhası sürücüye neyi bildirir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Turkey_road_sign_T-23.svg/320px-Turkey_road_sign_T-23.svg.png",
+    "secenekler": [
+      "A) Yolda sağdan ve soldan daralma (her iki taraftan daralan kaplama) olduğunu",
+      "B) Yolda gizli buzlanma bulunduğunu",
+      "C) Park etmenin serbest olduğunu",
+      "D) Otoyolun bittiğini"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 224,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza yerinde kazazedenin solunum yapıp yapmadığını değerlendirmek için kullanılan en güvenilir yöntem hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Bak - Dinle - Hisset yöntemi (10 saniye süreyle)",
+      "B) Kalbine el ile vurarak dinlemek",
+      "C) Su vererek yutup yutmadığına bakmak",
+      "D) Ayağını cımbızla sıkmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 225,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yaralının taşınmasında uygulanan 'İtfaiyeci Yöntemi' (Omuzda taşıma) hangi durumdaki kazazede için uygundur?",
+    "resim": null,
+    "secenekler": [
+      "A) Bilinci yerinde olan ve omurga kırığı şüphesi bulunmayan yürüyemeyen hafif yaralılar için",
+      "B) Omurga kırığı kesin olanlar için",
+      "C) Kalbi durmuş hastalar için",
+      "D) Boyun kırığı şüphesi bulunanlar için"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 226,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Atardamar kanamalarındaki kanın rengi ve akış biçimi nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Açık kırmızı renkte ve kalp atışlarıyla uyumlu fışkırır tarzda",
+      "B) Koyu renkli ve sızıntı halinde",
+      "C) Sarımsı sıvı şeklinde",
+      "D) Kılcal damar gibi çok yavaş"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 227,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Bebeklerde (0-1 yaş) hava yolu tam tıkanıklığı (soluk borusuna cisim kaçması) durumunda uygulanacak ilk yardım basamağı hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Bebeği yüzüstü ön kol üzerine yatırıp sırtına hafifçe 5 kez vurmak (kürek kemikleri arasına)",
+      "B) Karnına sertçe tekme atmak",
+      "C) Baş aşağı sallayarak ayaklarından tutmak",
+      "D) Ağzına su dökmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 228,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yetişkin bir kazazedede dış kalp masajı uygulanırken ellerin konumlandırılarak bası yapılacağı doğru bölge neresidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Göğüs kemiğinin (sternum) orta ve alt ucunun birleştiği bölge",
+      "B) Karnın tam ortası (mide bölgesi)",
+      "C) Sol köprücük kemiği üzeri",
+      "D) Kalbin tam sol üst kaburga hizası"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 229,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Şok tablosu gelişen bir kazazedeye verilecek en doğru pozisyon (Şok Pozisyonu) nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Sırtüstü yatırılarak ayaklarının 30 cm kadar yukarı kaldırılması",
+      "B) Yüzüstü yatırılarak sırtına baskı yapılması",
+      "C) Tam dik oturtulması",
+      "D) Başının aşağı sarkıtılması"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 230,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kırık ve çıkık tespitinde kullanılan atellerin (sabitleyicilerin) temel özelliği ne olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Sert, sağlam ve kırık eklemin alt ve üst eklemlerini de içine alacak uzunlukta olması",
+      "B) Tamamen yumuşak kumaştan yapılması",
+      "C) Esnek ve lastikli olması",
+      "D) Isıtıcı özelliğe sahip olması"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 231,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Temel yaşam desteği sırasında kurtarıcının yapacağı suni solunum (nefes verme) süresi ne kadar olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Her bir nefes yaklaşık 1 saniye sürecek ve göğsün kalkması izlenecek şekilde",
+      "B) 10 saniye boyunca kesintisiz üfleyerek",
+      "C) Sadece hızlıca nefes üfleyip bırakarak",
+      "D) Nefes vermeden sadece bası yaparak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 232,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Omurga yaralanması olan bir kazazedenin yanlış taşınması durumunda en büyük risk nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Omuriliğin zedelenmesi veya kesilmesi sonucu kalıcı felç oluşması",
+      "B) Saçların dökülmesi",
+      "C) Göz tansiyonunun yükselmesi",
+      "D) Tırnak kırılması"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 233,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kimyasal maddelerin gözle temas etmesi durumunda ilk yardımcının ilk yapması gereken işlem nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Gözü hemen bol ve temiz suyla en az 15-20 dakika yıkamak",
+      "B) Gözü ovuşturarak temizlemek",
+      "C) Göze pamukla kolonya sürmek",
+      "D) Gözü kapatıp beklemek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 234,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza yerinde ilk yardım hizmetlerinin yürütülmesinde '112' aranırken iletilmesi gereken temel bilgilerden biri değildir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kazazedenin banka hesap numarası",
+      "B) Olay yerinin tam adresi veya belirgin yerleri",
+      "C) Yaralı sayısı ve genel durumları",
+      "D) Hangi tür kazanın meydana geldiği"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 235,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza geçirmiş ve bilinci kapalı olan bir kazazedenin kusması durumunda solunum yolunun tıkanmaması için hangi pozisyon verilmelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Koma pozisyonu (Yarı yüzüstü yan yatış pozisyonu)",
+      "B) Şok pozisyonu",
+      "C) Sırtüstü düz yatış",
+      "D) Oturtma pozisyonu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 236,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorun silindirlerinde sıkıştırılan yakıt-hava karışımını elektrik kıvılcımı ile ateşleyen parça hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Alternatör",
+      "B) Buji",
+      "C) Enjektör",
+      "D) Marş motoru"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 237,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç lastiklerinin diş derinliği yasal sınırın altına düştüğünde (aşındığında) en önemli tehlike nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Islak zeminlerde su tahliyesi yapılamayarak kızaklama (hidroplaning) ve yol tutuş kaybı oluşması",
+      "B) Yakıt deposunun delinmesi",
+      "C) Akünün şarj tutmaması",
+      "D) Direksiyonun tamamen sökülmesi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 238,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motor yağlama sisteminde yağın temiz kalmasını ve içindeki yabancı partikülleri süzmesini sağlayan parça hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yağ filtresi",
+      "B) Hava filtresi",
+      "C) Polen filtresi",
+      "D) Yakıt filtresi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 239,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç çalıştırıldıktan sonra hareket halindeyken gösterge panelinde 'Kırmızı Renkli Akü Şarj İkaz Lambası' yanmaya devam ediyorsa muhtemel arıza nerededir?",
+    "resim": null,
+    "secenekler": [
+      "A) Alternatör (şarj dinamosu) elektrik üretmiyordur veya vantilatör kayışı koptmuştur",
+      "B) Yakıt bitmiştir",
+      "C) Motor yağı kalmamıştır",
+      "D) Fren hidroliği azalmıştır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 240,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Benzinli motorlarda yakıt sistemine hava girmesi veya yakıt bitmesi durumunda ne yapılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Yakıt ikmali yapılıp sistem gerekirse havası alınarak çalıştırılır",
+      "B) Akü değiştirilir",
+      "C) Şanzıman sökülür",
+      "D) Bujiler zımparalanır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 241,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araçlarda tekerleklerin balans ayarının bozulması sürüş sırasında neye neden olur?",
+    "resim": null,
+    "secenekler": [
+      "A) Belirli hızlarda direksiyonda ve araçta titremeye (sarsıntıya)",
+      "B) Motorun hararet yapmasına",
+      "C) Farların sönmesine",
+      "D) Kornanın bozulmasına"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 242,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorun çalışma sıcaklığında kalmasını ve suyun radyatörde soğutulmasını sağlayan sıcaklık denetim valfi hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Termostat",
+      "B) Alternatör",
+      "C) Distribütör",
+      "D) Endüksiyon bobini"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 243,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Debriyaj (kavrama) sisteminin görevi aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Vites değiştirirken motorun hareketini vites kutusuna kesip bağlayarak güvenli geçiş sağlamak",
+      "B) Direksiyonu döndürmek",
+      "C) Aracı durdurmak için fren yapmak",
+      "D) Aküyü şarj etmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 244,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Akü kutup başları üzerinde yeşil renkli gösterge (göz) bulunması ne anlama gelir?",
+    "resim": null,
+    "secenekler": [
+      "A) Akünün şarj durumunun iyi ve sağlıklı olduğunu",
+      "B) Akünün tamamen bittiğini",
+      "C) Aküde asit kaçağı olduğunu",
+      "D) Kutup başlarının gevşek olduğunu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 245,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte diğer sürücülerin hatalarına karşı hoşgörülü ve sabırlı davranan bir sürücünün temel amacı nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Trafik kazası riskini azaltmak ve sürüş huzurunu korumak",
+      "B) Diğer sürücülere üstünlük kurmak",
+      "C) Yakıt masrafını artırmak",
+      "D) Yolculuk süresini uzatmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 246,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte seyir halindeyken acil durum araçlarının (ambulans, itfaiye) geçişini engellememek için ne yapılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Derhal yol açılıp fermuar sistemiyle geçişlerine imkan tanınmalıdır",
+      "B) Arkalarından takip edilerek hızlanılmalıdır",
+      "C) Korna çalarak uyarıda bulunulmalıdır",
+      "D) Olduğu yerde durulmalıdır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 247,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafik kurallarına uymanın toplumsal yaşamdaki en önemli karşılığı aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Başkalarının haklarına ve yaşam güvenliğine saygı göstermek",
+      "B) Sadece ceza ödemekten kurtulmak",
+      "C) Daha hızlı gitmek",
+      "D) Araç yıpranmasını önlemek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 248,
+    "kategori": "Trafik Adabı",
+    "soru": "Kendi hakkından feragat ederek diğer yol kullanıcısının geçişine öncelik tanıyan sürücünün gösterdiği erdem hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Diğergamlık (Özgecilik)",
+      "B) Bencillik",
+      "C) Sabırsızlık",
+      "D) Öfke"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 249,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafik kazası anında tarafların birbirlerine karşı anlayışlı, sakin ve yapıcı yaklaşması trafik kültürünün hangi yönünü geliştirir?",
+    "resim": null,
+    "secenekler": [
+      "A) Toplumsal barışı ve güven ortamını",
+      "B) Tartışma ortamını",
+      "C) Zaman kaybını",
+      "D) Şiddet eğilimini"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 250,
+    "kategori": "Trafik Adabı",
+    "soru": "Yoğun trafikte diğer sürücülerin şerit değiştirmesine imkan vermemek için aradaki mesafeyi kapatmak trafik adabına göre nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Saygısız ve kaza riskini artıran olumsuz bir tutumdur",
+      "B) Sürüş kalitesini artıran bir kuraldır",
+      "C) Zorunlu bir uygulamadır",
+      "D) Trafik akışını hızlandıran bir davranıştır"
+    ],
+    "cevap": 0
+  }{
+    "id": 251,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhasını gören sürücünün aşağıdakilerden hangisini yapması beklenir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turkey_road_sign_TT-4.svg/320px-Turkey_road_sign_TT-4.svg.png",
+    "secenekler": [
+      "A) Sağa ve sola mecburi yön kuralına uyarak dönmesi",
+      "B) Sadece geriye dönmesi",
+      "C) Park etmesi",
+      "D) Hızını artırarak düz gitmesi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 252,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhası sürücüye aşağıdakilerden hangisini bildirir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Turkey_road_sign_T-24a.svg/320px-Turkey_road_sign_T-24a.svg.png",
+    "secenekler": [
+      "A) İleride yolun sağ taraftan daraldığını",
+      "B) Sağ tarafta gevşek malzeme bulunduğunu",
+      "C) Yolda kasis olduğunu",
+      "D) İleride iki yönlü trafiğin sağlandığını"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 253,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret bulunmadığı sürece, yerleşim yeri içindeki bağlantı yollarında otomobiller için azami hız sınırı saatte kaç kilometredir?",
+    "resim": null,
+    "secenekler": [
+      "A) 30 km/s",
+      "B) 50 km/s",
+      "C) 70 km/s",
+      "D) 90 km/s"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 254,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret yoksa, eğimsiz iki yönlü dar karayolunda karşılaşmada kamyon ile otomobilin karşılaşması halinde hangisi diğerine yol vermelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kamyon otomobile",
+      "B) Otomobil kamyona",
+      "C) Boyu uzun olan diğerine",
+      "D) Yüksüz olan diğerine"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 255,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik kazası sonrasında olay yerinden ayrılan veya kaçan sürücülere uygulanan yasal yaptırımın adı ve niteliği nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Sürücü belgesinin geçici veya kalıcı olarak geri alınması ile ağır para ve adli cezalar",
+      "B) Sadece tebrik belgesi verilmesi",
+      "C) Araç vergisinin silinmesi",
+      "D) Ehliyetine puan eklenmemesi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 256,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Geceleyin yerleşim yeri dışındaki aydınlatmasız karayollarında seyir halindeyken hangi farların yakılması kural olarak zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) Uzağı gösteren (uzun) farlar",
+      "B) Sadece sis lambaları",
+      "C) Park lambaları",
+      "D) Dörtlü flaşörler"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 257,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Karayollarında seyreden araçların yüklenmesine ilişkin kurallara göre, taşınan yükün karayoluna düşebilecek veya saçılacak şekilde yüklenmesi durumunda ne yapılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Sürücüye para cezası uygulanır ve yük güvenli hale getirilinceye kadar araç trafikten alıkonulur",
+      "B) Yola devam etmesine izin verilir",
+      "C) Yükün yola dökülmesi serbesttir",
+      "D) Sadece uyarı yapılır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 258,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik zabıtasının veya yetkili kişilerin kollarını yanlara açarak yatay konumda tutması işaretinin anlamı nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Ön ve arkadaki trafik için DUR, yanlardaki trafik için GEÇ",
+      "B) Bütün yönlere DUR",
+      "C) Hızlan",
+      "D) Sağa yanaş"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 259,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Kavşaklara yaklaşırken sürücülerin hızlarını azaltmaları, önlerindeki araçları geçmemeleri ve dikkatli olmaları hangi kural gereğidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kavşaklara yaklaşırken uyulması gereken genel hız ve emniyet kuralları",
+      "B) Sadece gece sürüş kuralları",
+      "C) Otoyol hızlanma kuralları",
+      "D) Park etme yönetmeliği"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 260,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Hususi otomobillerde bulundurulması zorunlu olan ve kaza durumunda ilk yardım amacıyla kullanılan çanta içinde hangi temel malzeme bulunmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Üçgen sargı bezi, steril gazlı bez, antiseptik solüsyon, plaster ve makas",
+      "B) Tornavida seti ve pense",
+      "C) Yedek akü kablosu",
+      "D) Navigasyon cihazı"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 261,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Otoyollarda seyreden araçların asgari (en düşük) hız sınırı saatte en az kaç kilometredir?",
+    "resim": null,
+    "secenekler": [
+      "A) 40 km/s",
+      "B) 50 km/s",
+      "C) 60 km/s",
+      "D) 80 km/s"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 262,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücülerin okul geçitlerine veya öğrenci taşıtlarına (servislere) yaklaşırken uyması gereken özel kural hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hızını azaltmak, öğrenci iniş-binişlerinde durmak ve yayalara öncelik tanımak",
+      "B) Kornaya basarak hızlıca geçmek",
+      "C) Sol şeritten hızlanarak devam etmek",
+      "D) Servis aracını sollamak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 263,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Araçların tescil plakalarının üzerinde yer alan uluslararası ülke kodu harfi Türkiye için hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) TR",
+      "B) TU",
+      "C) TK",
+      "D) TUR"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 264,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Zorunlu Mali Sorumluluk (Trafik) Sigortası yaptırmadan karayolunda araç kullanan kişilere uygulanan yaptırım hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Para cezası uygulanır ve araç trafikten alıkonularak otoparka çekilir",
+      "B) Sadece yazılı uyarı verilir",
+      "C) Sürücüye ödül verilir",
+      "D) Ehliyeti 1 gün süreyle verilir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 265,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Yol üzerindeki yatay işaretlemelerden biri olan 'Taralı Alana Girilmez' kuralı sürücülere neyi bildirir?",
+    "resim": null,
+    "secenekler": [
+      "A) Bu alanın içine girmek, park etmek veya duraklamak kesinlikle yasaktır",
+      "B) İstendiği gibi park edilebilir",
+      "C) Araç arızalandığında ilk buraya çekilir",
+      "D) Hızlanma şerididir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 266,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik kazasında asli kusur sayılan hareketlerden biri aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kavşaklarda geçiş hakkı kuralına uymamak",
+      "B) Camları silmek",
+      "C) Far yükseklik ayarını yapmak",
+      "D) Emniyet kemeri takmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 267,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şehirler arası yollarda arıza nedeniyle duran bir aracın arkasına konulacak reflektörün diğer sürücüler tarafından en az kaç metre mesafeden görülebilmesi gerekir?",
+    "resim": null,
+    "secenekler": [
+      "A) 150 metre mesafeden",
+      "B) 10 metre mesafeden",
+      "C) 500 metre mesafeden",
+      "D) 5 metre mesafeden"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 268,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Kontrolsüz kavşaklarda karşılaşan dönüş yapmak isteyen sürücüler, düz gitmekte olan araçlara karşı nasıl davranmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Düz gitmekte olan araçlara geçiş hakkı vermelidir",
+      "B) Hızlanarak önce kendisi geçmelidir",
+      "C) Korna çalarak yol istemelidir",
+      "D) Durmadan yoluna devam etmelidir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 269,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Karayolu üzerinde seyir halindeki bir aracın motorunun stop etmesi durumunda sürücünün öncelikle yapması gereken güvenli davranış nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Dörtlü flaşörleri yakıp aracı sağ şeride veya bankete yönlendirerek güvenli alana durdurmak",
+      "B) Olduğu yerde aniden fren yapıp durmak",
+      "C) Geri vitese takıp gerilemek",
+      "D) Araçtan hemen atlamak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 270,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücü belgelerinin sınıflarına göre geçerlilik süreleri ve yenilenme şartları hangi mevzuata göre düzenlenir?",
+    "resim": null,
+    "secenekler": [
+      "A) Karayolları Trafik Yönetmeliği",
+      "B) Belediye İmar Kanunu",
+      "C) Vergi Usul Kanunu",
+      "D) İş Kanunu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 271,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Yerleşim yeri içindeki kavşaklara yaklaşırken sürücülerin şerit değiştirmesi yasak olan mesafe kuralı kaç metredir?",
+    "resim": null,
+    "secenekler": [
+      "A) En az 30 metre kala",
+      "B) 200 metre kala",
+      "C) 1 kilometre kala",
+      "D) Sadece kavşak içinde"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 272,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Yol üzerindeki yatay işaretlemelerden 'Kesik Yol Çizgisi' neyi ifade eder?",
+    "resim": null,
+    "secenekler": [
+      "A) Kurallara uygun olarak şerit değiştirebileceğini ve öndeki aracın geçilebileceğini",
+      "B) Sollamanın kesinlikle yasak olduğunu",
+      "C) Park yasağını",
+      "D) Yolun sonunu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 273,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhası sürücüye neyi haber verir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Turkey_road_sign_T-31b.svg/320px-Turkey_road_sign_T-31b.svg.png",
+    "secenekler": [
+      "A) İleride iki yönlü trafik akışının sona ereceğini veya tek yönlü yola geçileceğini",
+      "B) Yolda gizli buzlanma olduğunu",
+      "C) Sola keskin virajı",
+      "D) Park alanını"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 274,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza yerinde kazazedenin bilincinin açık olup olmadığını anlamak için ilk yardımcının yapacağı ilk iletişim davranışı nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Omuzlarına hafifçe dokunup 'iyi misiniz?' diye sesli olarak sormak",
+      "B) Yüzüne soğuk su fırlatmak",
+      "C) Kolunu bükerek zorlamak",
+      "D) Ayak tabanını iğnelemek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 275,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kazazedenin taşınmasında kullanılan 'Kaşık Sedyesi' yöntemi özellikle hangi tür yaralanmalarda tercih edilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Omurga ve kemik kırıklarından şüphe edilen, vücudun sarsılmaması gereken durumlarda",
+      "B) Bilinci açık hafif baş ağrılarında",
+      "C) Basit burkulmalarda",
+      "D) Burun kanamalarında"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 276,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kılcal damar kanamalarının en belirgin ve ayırt edici görsel özelliği nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Küçük sızıntılar veya hafif kabarcıklar halinde kılcal yayılım göstermesi",
+      "B) Fışkırarak akması",
+      "C) Koyu renkli ve çok hızlı akması",
+      "D) Hiç kanama görülmemesi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 277,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Soluk borusuna yabancı cisim kaçan ve tıkanma yaşayan bir kişide konuşma ve nefes alma tamamen durmuşsa hangi ilk yardım uygulaması yapılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Heimlich Manevrası (Karına bası)",
+      "B) Rentek Manevrası",
+      "C) Şok pozisyonu",
+      "D) Suni teneffüs"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 278,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Temel yaşam desteği (CPR) uygulayan bir ilk yardımcının göğüs masajı ile suni solunum yapma döngüsü (oranı) yetişkinler için nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) 30 kalp masajı / 2 suni solunum",
+      "B) 15 kalp masajı / 2 suni solunum",
+      "C) 10 kalp masajı / 1 suni solunum",
+      "D) 50 kalp masajı / 5 suni solunum"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 279,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Şok geçirmekte olan bir kazazedenin vücudundaki temel dolaşım bozukluğunu hafifletmek amacıyla bacaklarının kaldırılmasının sebebi nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hayati organlara (kalp ve beyne) kan akışını artırmak",
+      "B) Bacak kaslarını dinlendirmek",
+      "C) Ayakkabıları çıkarmak",
+      "D) Solunumu tamamen durdurmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 280,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kırık ve çıkıkların tespit edilmesinde kullanılan atellerin uygulanacağı bölge ile ilgili kural nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kırık kemiğin hem alt hem de üst eklemini içine alacak şekilde uzun olmalıdır",
+      "B) Sadece kırık çizgisinin üzerine sarılmalıdır",
+      "C) Esnek kumaşla sıkıca boğulmalıdır",
+      "D) Plastik torba ile sarılmalıdır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 281,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yetişkin bir kazazedede solunum durması ile kalp durmasının birlikte tespiti halinde öncelikli olarak ne başlatılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Derhal dış kalp masajı ile temel yaşam desteğine başlanır",
+      "B) Su verilmeye çalışılır",
+      "C) Hastaneye yürütülür",
+      "D) Ambulansın gelmesi beklenir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 282,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kazazedenin araçtan çıkarılmasında kullanılan 'Rentek Manevrası' hangi riskli durumda uygulanır?",
+    "resim": null,
+    "secenekler": [
+      "A) Yangın tehlikesi veya patlama riski gibi hayati tehlike barındıran acil durumlarda",
+      "B) Hafif sıyrıklarda",
+      "C) Lastik patlamalarında",
+      "D) Yolculuk bittiğinde"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 283,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Elektrik çarpması geçiren bir kazazedenin ilk yardımında öncelikli olarak ilk yardımcının yapması gereken nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Elektrik akımını sigortadan kesmek veya yalıtkan cisimle akımı uzaklaştırmak",
+      "B) Çıplak elle kazazedeyi çekmek",
+      "C) Üzerine su dökmek",
+      "D) Koşarak uzaklaşmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 284,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza yerinde 112 acil yardım merkezi aranırken verilmesi gereken bilgiler arasında aşağıdakilerden hangisi yer almaz?",
+    "resim": null,
+    "secenekler": [
+      "A) Sürücünün sevdiği müzik türü",
+      "B) Olay yerinin tam adresi",
+      "C) Yaralıların durumu ve sayısı",
+      "D) Hangi telefon numarasından arandığı"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 285,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Bilinç kaybı olan ancak solunumu devam eden bir kazazedeye uygulanacak en doğru pozisyon hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Koma pozisyonu (Yarı yüzüstü yan yatış)",
+      "B) Şok pozisyonu",
+      "C) Oturtma pozisyonu",
+      "D) Sırtüstü düz yatış"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 286,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorun silindirlerine giren havayı süzerek temizleyen parça aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hava filtresi",
+      "B) Yağ filtresi",
+      "C) Polen filtresi",
+      "D) Yakıt filtresi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 287,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç lastiklerinin havasının normal değerden çok düşük olması durumunda ortaya çıkacak en önemli olumsuzluk nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yakıt sarfiyatının artması ve lastiklerin yan kenarlarından aşınması",
+      "B) Motorun hararet yapması",
+      "C) Farların sönmesi",
+      "D) Direksiyonun hafiflemesi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 288,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motor yağlama sisteminde yağ seviyesi çubukla ölçülürken yağ seviyesi iki çizgi arasında hangi konumda olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) İki çizginin tam arasında (ideal olarak üst sınıra yakın)",
+      "B) Çubuğun en üst noktasından taşmış olmalıdır",
+      "C) Tamamen kuru olmalıdır",
+      "D) Alt çizginin çok altında olmalıdır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 289,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç seyir halindeyken gösterge panelinde 'Kırmızı Hararet İkaz Lambası' yanarsa veya hararet ibaresi kırmızı bölgeye gelirse ne yapılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Araç derhal emniyetli bir yere çekilip motor stop edilmeli, soğuması beklenmelidir",
+      "B) Hız artırılarak rüzgarla soğuması sağlanmalıdır",
+      "C) Far yakılarak yola devam edilmelidir",
+      "D) Vites boşa alınarak gaz verilmelidir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 290,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Benzinli motorlarda ateşlemeyi sağlayan kıvılcımı üreten elektrik donanım parçası hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Buji",
+      "B) Alternatör",
+      "C) Enjektör",
+      "D) Marş motoru"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 291,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araçta fren pedalına basıldığında pedal çok sertleşiyor ve fren tutmuyorsa arıza muhtemelen nerededir?",
+    "resim": null,
+    "secenekler": [
+      "A) Fren hidrolik sisteminde veya vakum (fren güçlendirici) arızasındadır",
+      "B) Akü bitmiştir",
+      "C) Silecekler çalışmıyordur",
+      "D) Klima gazı kalmamıştır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 292,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorun soğutma suyuna kış aylarında donmayı önlemek amacıyla ne katılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Antifriz",
+      "B) Saf alkol",
+      "C) Asit",
+      "D) Motor yağı"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 293,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Vites kutusunun (şanzımanın) temel işlevi nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Motorun gücünü tekerleklere istenen hız ve tork (çekiş) oranında iletmek",
+      "B) Aküyü şarj etmek",
+      "C) Direksiyonu çevirmek",
+      "D) Egzoz gazını dışarı atmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 294,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Akü üzerinde bulunan kutup başlarının sökülmesi sırasında ilk olarak hangi kutup sökülmelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Eksi (-) kutup",
+      "B) Artı (+) kutup",
+      "C) İkisi aynı anda",
+      "D) Marş kablosu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 295,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte diğer sürücülere karşı sabırlı, saygılı ve hoşgörülü olmanın sürüş güvenliğine en büyük katkısı nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Öfke kaynaklı riskli hamleleri ve kaza ihtimalini azaltması",
+      "B) Araç hızını iki katına çıkarması",
+      "C) Yakıt tüketimini tamamen sıfırlaması",
+      "D) Trafik işaretlerini ortadan kaldırması"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 296,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafik sıkışıklığı sırasında sabırsızlanarak sürekli korna çalan bir sürücüye karşı diğer sürücünün sakin kalması neyi gösterir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yüksek trafik stres yönetimi bilincine sahip olduğunu",
+      "B) Kural bilmediğini",
+      "C) Zaman kaybettiğini",
+      "D) Korkak olduğunu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 297,
+    "kategori": "Trafik Adabı",
+    "soru": "Yayalar için yeşil ışık yandığı halde henüz karşıya geçişi tamamlayamamış yaşlı bir yayanın geçişini sabırla bekleyen sürücünün tutumu hangisini yansıtır?",
+    "resim": null,
+    "secenekler": [
+      "A) İnsan hayatına ve toplumsal kurallara verilen değeri",
+      "B) Zaman israfını",
+      "C) Sürüş hatasını",
+      "D) Mecburi cezai durumu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 298,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte kendi hakkından feragat ederek diğer yol kullanıcısının güvenle geçişine imkan tanımak hangi erdemli davranışı ifade eder?",
+    "resim": null,
+    "secenekler": [
+      "A) Diğergamlık (Özgecilik)",
+      "B) Bencillik",
+      "C) Sabırsızlık",
+      "D) İnatçılık"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 299,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafik kazası sonrasında tarafların kavga etmek yerine birbirlerine yardım etmesi ve sakinlikle anlaşması hangi toplumsal kültürü güçlendirir?",
+    "resim": null,
+    "secenekler": [
+      "A) Toplumsal barış, yardımlaşma ve uzlaşı kültürünü",
+      "B) Tartışma kültürünü",
+      "C) Hak aramaktan vazgeçmeyi",
+      "D) Cezadan kaçma yöntemini"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 300,
+    "kategori": "Trafik Adabı",
+    "soru": "Şehir içinde seyir halindeyken araçtan dışarıya çöp, sigara izmariti veya atık atmak trafik adabına ve çevre kurallarına göre nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Çevre kirliliğine yol açan, doğaya ve insanlara saygısız bir davranıştır",
+      "B) Normal ve zararsız bir eylemdir",
+      "C) Sürüş güvenliğini artıran bir kuraldır",
+      "D) Zorunlu bir temizlik yöntemidir"
+    ],
+    "cevap": 0
+  }{
+    "id": 301,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhasını gören sürücünün aşağıdakilerden hangisini yapması gerekir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turkey_road_sign_T-1.svg/320px-Turkey_road_sign_T-1.svg.png",
+    "secenekler": [
+      "A) Hızını artırarak yoluna devam etmesi",
+      "B) Sağdan daralan tehlikeli devamlı viraja yaklaşıldığı için yavaşlaması",
+      "C) Geri vitese takarak manevra yapması",
+      "D) Park etmesi"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 302,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhası sürücüye aşağıdakilerden hangisini bildirir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Turkey_road_sign_B-37.svg/320px-Turkey_road_sign_B-37.svg.png",
+    "secenekler": [
+      "A) Öndeki taşıtı geçmenin yasak olduğunu",
+      "B) Azami hız sınırlamasının sona erdiğini",
+      "C) Park etmenin yasak olduğunu",
+      "D) Otoyolun bittiğini"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 303,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret bulunmadığı sürece, yerleşim yeri içindeki iki yönlü karayollarında otomobiller için azami hız sınırı saatte kaç kilometredir?",
+    "resim": null,
+    "secenekler": [
+      "A) 30 km/s",
+      "B) 50 km/s",
+      "C) 70 km/s",
+      "D) 90 km/s"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 304,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Aksine bir işaret yoksa, eğimsiz iki yönlü dar karayolunda karşılaşmada kamyonet ile otomobilin karşılaşması halinde hangisi diğerine yol vermelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Otomobil kamyonete",
+      "B) Kamyonet otomobile",
+      "C) Boş olan diğerine",
+      "D) Boyu kısa olan diğerine"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 305,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik kazalarında asli kusur sayılan hallerden biri aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kırmızı ışık ve görevlinin dur işaretinde geçmek",
+      "B) Temiz araç kullanmak",
+      "C) Düşük hızla gitmek",
+      "D) Far ayarını kontrol etmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 306,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Geceleyin yerleşim yeri içindeki aydınlatılmış karayollarında seyir halindeyken hangi farların yakılması kural olarak zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) Uzağı gösteren (uzun) farlar",
+      "B) Yakını gösteren (kısa) farlar",
+      "C) Sadece sis lambaları",
+      "D) Park lambaları"
+    ],
+    "cevap": 1
+  },
+  {
+    "id": 307,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Araçların yüklenmesine ilişkin kurallara göre, gabari (boyut ve yükseklik sınırları) dışındaki yüklerin taşınması hangi şarta bağlıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Özel izin alınması ve gerekli güvenlik önlemlerinin sağlanması şartıyla",
+      "B) İstendiği gibi serbestçe taşınabilir",
+      "C) Sadece gece vakti taşınabilir",
+      "D) İzin alınmasına gerek yoktur"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 308,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik zabıtasının kolunu yukarı kaldırması işaretinin sürücüler için anlamı nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Bütün yönlere DUR",
+      "B) GEÇ",
+      "C) YAVAŞLA",
+      "D) SAĞA YANAŞ"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 309,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Kavşaklarda geçiş hakkı kurallarına göre, aynı anda kavşağa gelen iki araçtan soldaki araç kime yol vermelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Sağdaki araca",
+      "B) Arkadan gelen araca",
+      "C) Motorsuz araçlara",
+      "D) Yol kenarındaki yayaya"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 310,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Hususi otomobillerde bulundurulması zorunlu olan ve kaza anında araç altını aydınlatmaya veya uyarı vermeye yarayan cihaz hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Seyyar lamba veya el feneri",
+      "B) Tornavida",
+      "C) Takograf",
+      "D) Navigasyon"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 311,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Otoyollarda araçların arızalanması durumunda en çok kaç saat süreyle emniyet şeridinde beklemesine izin verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Zorunlu hallerde en kısa sürede (genellikle makul süre, örn. 1-2 saat içinde çekilmesi gerekir)",
+      "B) 24 saat boyunca",
+      "C) 3 gün boyunca",
+      "D) Sınırsız süre"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 312,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Okul taşıtlarının (servislerin) arkasındaki 'DUR' işaret ışığı ne zaman yakılmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Sadece öğrencilerin inme ve binme maksadıyla durakladığı zaman",
+      "B) Sürekli seyir halindeyken",
+      "C) Sadece gece vakti",
+      "D) Park halindeyken"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 313,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücü belgelerinin geri alınmasını gerektiren kural ihlallerinden biri olan 100 ceza puanını bir yıl içinde kaç kez dolduranların belgesi 2 ay süreyle geri alınır?",
+    "resim": null,
+    "secenekler": [
+      "A) İlk defa dolduranların",
+      "B) Üçüncü defa dolduranların",
+      "C) Beşinci defa dolduranların",
+      "D) Onuncu defa dolduranların"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 314,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Zorunlu Mali Sorumluluk Sigortası poliçesinin süresi biten bir aracın trafiğe çıkarılması durumunda tespit edilirse ne uygulanır?",
+    "resim": null,
+    "secenekler": [
+      "A) Para cezası uygulanır ve sigorta yapılana kadar araç trafikten alıkonulur",
+      "B) Sadece uyarı verilir",
+      "C) Ehliyetine el konulur",
+      "D) Herhangi bir işlem yapılmaz"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 315,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Yol üzerindeki yatay işaretlemelerden 'Azami Hız Sınırı' rakamlarının yola yazılması ne anlama gelir?",
+    "resim": null,
+    "secenekler": [
+      "A) O kesimdeki sürücülerin uyması gereken hız sınırını gösterir",
+      "B) Kilometre sayacını gösterir",
+      "C) Yolun uzunluğunu bildirir",
+      "D) Park yasağını bildirir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 316,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Trafik kazalarının önlenmesinde sürücülerin uyması gereken en temel psikolojik faktör hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Sabırlı, sakin ve kurallara saygılı olmak",
+      "B) Sürekli acele etmek",
+      "C) Diğer sürücülerle yarışmak",
+      "D) Korna çalmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 317,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şehirler arası yollarda arızalanan araçların arkasına konulacak reflektörün ebatları ve rengi nasıl olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) İki adet kırmızı renkli, üçgen şekilli reflektör",
+      "B) Tek bir yeşil lamba",
+      "C) Mavi renkli bayrak",
+      "D) Sarı renkli şerit"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 318,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Tescilli bir aracın satışı veya devri nerede yapılması zorunludur?",
+    "resim": null,
+    "secenekler": [
+      "A) Noterlerde",
+      "B) Emniyet müdürlüklerinde",
+      "C) Belediyelerde",
+      "D) Muhtarlıklarda"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 319,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Seyir halindeki bir aracın lastiklerinden biri patlarsa sürücü nasıl bir tepki vermelidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Direksiyonu sıkıca tutup ani fren yapmadan yavaşça sağa yanaşarak durmalıdır",
+      "B) Derhal tam gaz fren yapmalıdır",
+      "C) Direksiyonu bırakmalıdır",
+      "D) El frenini sonuna kadar çekmelidir"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 320,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Sürücü belgesi almak isteyen kişilerin geçmesi gereken sağlık raporu hangi uzmanlar tarafından verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yetkili sağlık kuruluşları ve tabibler",
+      "B) Sadece sürücü kursu hocaları",
+      "C) Trafik polisleri",
+      "D) Noterler"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 321,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Yerleşim yeri içindeki bulvar veya caddelerde, aksine bir işaret yoksa otomobiller için azami hız sınırı saatte kaç kilometredir?",
+    "resim": null,
+    "secenekler": [
+      "A) 50 km/s",
+      "B) 70 km/s",
+      "C) 90 km/s",
+      "D) 110 km/s"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 322,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Yol üzerindeki yatay işaretlemelerden 'Dur Çizgisi' nerede bulunur?",
+    "resim": null,
+    "secenekler": [
+      "A) Işıklı veya işaretli kavşaklarda durulması gereken noktada yol boyunca çizilmiş çizgi",
+      "B) Otoyol gişelerinde",
+      "C) Park alanlarının girişinde",
+      "D) Akaryakıt istasyonlarında"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 323,
+    "kategori": "Trafik ve Çevre Bilgisi",
+    "soru": "Şekildeki trafik işaret levhası sürücüye neyi haber verir?",
+    "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Turkey_road_sign_T-31a.svg/320px-Turkey_road_sign_T-31a.svg.png",
+    "secenekler": [
+      "A) İleride iki yönlü trafik akışına geçileceğini",
+      "B) Yolda buzlanma olduğunu",
+      "C) Park yasağını",
+      "D) Sola keskin virajı"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 324,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kaza yerinde kazazedenin bilincini değerlendirmek için hangi ifade doğru bir ilk yardım yaklaşımıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Omuzlarına dokunarak 'iyi misiniz?' diye seslenmek",
+      "B) Yüzüne tokat atmak",
+      "C) Kolunu bükerek kırmak",
+      "D) Soğuk su dökmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 325,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yaralının sedye ile taşınması sırasında yürüyüş tarzı nasıl olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) İlk yardımcıların adımları uyumlu olmalı, sarsıntısız ve dengeli yürünmelidir",
+      "B) Koşarak hızla taşınmalıdır",
+      "C) Sedye baş aşağı tutulmalıdır",
+      "D) Tek kişi tarafından taşınmalıdır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 326,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Atardamar kanamalarında kanın durdurulması için uygulanacak en etkili ilk yardım yöntemi hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kanayan yer üzerine temiz bezle basınç uygulamak, yetersizse turnike uygulamak",
+      "B) Kolonya dökmek",
+      "C) Yarayı açık bırakmak",
+      "D) Sıcak su kompresi yapmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 327,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Tam tıkanıklık (nefes alamayan, konuşamayan) yaşayan bir kişiye uygulanacak manevra hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Heimlich Manevrası",
+      "B) Rentek Manevrası",
+      "C) Şok pozisyonu",
+      "D) Koma pozisyonu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 328,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yetişkinlerde temel yaşam desteği sırasında göğüs basısı uygulanan kemik hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Göğüs kemiği (Sternum)",
+      "B) Köprücük kemiği",
+      "C) Kürek kemiği",
+      "D) Kalça kemiği"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 329,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Şok pozisyonunda kazazedenin bacaklarının yukarı kaldırılmasının temel sebebi nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kanı hayati organlara (kalp ve beyne) sevk etmek",
+      "B) Bacakları dinlendirmek",
+      "C) Şişliği indirmek",
+      "D) Solunumu durdurmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 330,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Kırık tespitinde kullanılan atellerin uzunluğu nasıl olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Kırık yerin altındaki ve üstündeki eklemleri içine alacak uzunlukta",
+      "B) Sadece kırık çizgisinin boyunda",
+      "C) Çok kısa ve esnek",
+      "D) Vücudun tamamı kadar"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 331,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Temel yaşam desteği sırasında suni solunum verilirken dikkat edilecek en önemli husus nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Hava yolunun açık (baş-geri çene-yukarı) olduğundan emin olmak",
+      "B) Hızlıca nefes üflemek",
+      "C) Göğse bastırmak",
+      "D) Hastayı oturtmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 332,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Rentek manevrasının amacı aşağıdakilerden hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Omuriliğe zarar vermeden kazazedeyi araçtan güvenle çıkararak çıkarmak",
+      "B) Kırık bacağı sarmak",
+      "C) Kalp masajı yapmak",
+      "D) Kanamayı durdurmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 333,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Yanık yaralanmalarında ilk yardımcının yapacağı doğru işlem hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yanan bölgeyi bol soğuk suyla yıkamak, diş macunu veya salça sürmemek",
+      "B) Buzla ovmak",
+      "C) Su toplayan yerleri patlatmak",
+      "D) Kolonya dökmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 334,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "112 Acil Yardım Merkezi arandığında ilk yardımcının vermesi gereken ilk bilgi ne olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Olay yerinin tam ve anlaşılır adresi",
+      "B) Kendi adı ve soyadı",
+      "C) Aracın modeli",
+      "D) Trafik cezası durumu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 335,
+    "kategori": "İlk Yardım Bilgisi",
+    "soru": "Bilinç kaybı olan ve solunumu devam eden bir kazazedeye hangi pozisyon verilir?",
+    "resim": null,
+    "secenekler": [
+      "A) Koma pozisyonu",
+      "B) Şok pozisyonu",
+      "C) Oturma pozisyonu",
+      "D) Düz sırtüstü pozisyon"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 336,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motorun silindirlerine giren yakıtı filtreleyen parça hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Yakıt filtresi",
+      "B) Hava filtresi",
+      "C) Yağ filtresi",
+      "D) Polen filtresi"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 337,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç lastiklerinin havasının normalden az olması durumunda ne gibi bir olumsuzluk yaşanır?",
+    "resim": null,
+    "secenekler": [
+      "A) Yakıt sarfiyatı artar ve lastikler kenarlardan aşınır",
+      "B) Motor hararet yapar",
+      "C) Farlar söner",
+      "D) Direksiyon hafifler"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 338,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Motor yağ seviyesi ölçülürken aracın konumu nasıl olmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Düz zeminde",
+      "B) Yokuş yukarı",
+      "C) Kriko ile kaldırılmış",
+      "D) Yokuş aşağı"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 339,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Araç gösterge panelinde 'Kırmızı Renkli Hararet İkambası' yanarsa sürücü ne yapmalıdır?",
+    "resim": null,
+    "secenekler": [
+      "A) Aracı durdurup motoru stop etmelidir",
+      "B) Hızlanarak gitmelidir",
+      "C) Farları kapatmalıdır",
+      "D) Kornaya basmalıdır"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 340,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Benzinli motorlarda ateşlemeyi sağlayan parça hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Buji",
+      "B) Enjektör",
+      "C) Alternatör",
+      "D) Marş motoru"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 341,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Fren pedalına basıldığında pedalın dibe kadar gitmesi ve frenin tutmaması neyi gösterir?",
+    "resim": null,
+    "secenekler": [
+      "A) Fren hidroliğinin bittiğini veya sistemde kaçak olduğunu",
+      "B) Akünün zayıfladığını",
+      "C) Motor yağının eksildiğini",
+      "D) Lastik havasının indiğini"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 342,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Antifriz soğutma suyuna hangi amaçla eklenir?",
+    "resim": null,
+    "secenekler": [
+      "A) Suyun donmasını önlemek ve paslanmayı engellemek",
+      "B) Motor gücünü artırmak",
+      "C) Yakıtı temizlemek",
+      "D) Aküyü şarj etmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 343,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Vites kutusunun temel görevi nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Araca hız ve tork (çekiş gücü) kazandırmak",
+      "B) Aküyü şarj etmek",
+      "C) Farları yakmak",
+      "D) Direksiyonu döndürmek"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 344,
+    "kategori": "Araç Tekniği (Motor)",
+    "soru": "Akü kutup başları sökülürken ilk olarak hangi kablo çıkarılır?",
+    "resim": null,
+    "secenekler": [
+      "A) Eksi (-) kutup kablosu",
+      "B) Artı (+) kutup kablosu",
+      "C) İkisi aynı anda",
+      "D) Marş kablosu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 345,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafikte diğer sürücülere karşı saygılı ve hoşgörülü olmanın temel faydası nedir?",
+    "resim": null,
+    "secenekler": [
+      "A) Kaza riskini azaltarak güvenli ve huzurlu bir sürüş ortamı sağlamak",
+      "B) Yolculuk süresini uzatmak",
+      "C) Araç yakıtını artırmak",
+      "D) Trafik kurallarını ortadan kaldırmak"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 346,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafik sıkışıklığında öfkelenip sürekli korna çalan sürücünün sergilediği tutum nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Stres yönetiminden yoksun, çevreye rahatsızlık veren olumsuz bir tutum",
+      "B) Trafiği açmanın tek yolu",
+      "C) Zorunlu bir davranış",
+      "D) Doğru bir sürüş tekniği"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 347,
+    "kategori": "Trafik Adabı",
+    "soru": "Yaya geçidinde bekleyen yayaya yol vermeyen sürücünün davranışı neyi gösterir?",
+    "resim": null,
+    "secenekler": [
+      "A) Trafik kurallarına ve insan hayatına saygısızlığı",
+      "B) Pratik zekayı",
+      "C) Usta sürücülüğü",
+      "D) Zaman tasarrufunu"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 348,
+    "kategori": "Trafik Adabı",
+    "soru": "Kendi geçiş hakkını başkasının lehine kullanarak fedakarlık gösteren sürücünün sergilediği erdem hangisidir?",
+    "resim": null,
+    "secenekler": [
+      "A) Diğergamlık (Özgecilik)",
+      "B) Bencillik",
+      "C) Sabırsızlık",
+      "D) Öfke"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 349,
+    "kategori": "Trafik Adabı",
+    "soru": "Trafik kazası sonrasında tarafların sakinlikle anlaşmaya çalışması neyi gösterir?",
+    "resim": null,
+    "secenekler": [
+      "A) Toplumsal barış ve uzlaşı kültürünü",
+      "B) Korkaklığı",
+      "C) Hak aramaktan vazgeçmeyi",
+      "D) Cezadan kaçmayı"
+    ],
+    "cevap": 0
+  },
+  {
+    "id": 350,
+    "kategori": "Trafik Adabı",
+    "soru": "Araçtan dışarıya çöp veya sigara izmariti atmak trafik adabına göre nasıldır?",
+    "resim": null,
+    "secenekler": [
+      "A) Çevre kirliliğine yol açan saygısız bir davranıştır",
+      "B) Normal bir alışkanlıktır",
+      "C) Sürüşü rahatlatır",
+      "D) Zorunlu bir temizliktir"
+    ],
+    "cevap": 0
+  }
